@@ -5,8 +5,8 @@
 
 
 ### Software Requirements:
-- Python 3.11+ (Preferred as it's the one used in Liu's' et al. experiment and some dependencies may require newer versions)  
-- Rest of python dependencies in ComputerSecurityProjectGit/PythonDependencies.txt
+- For Python 3.11+: https://www.python.org/downloads/release/python-3110/ (Preferred as it's the one used in Liu's' et al. experiment and some dependencies may require newer versions)  
+- Rest of python dependencies in ComputerSecurityProjectGit/PythonDependencies.txt.
 
 ### Approach/Replicating the Experiment
 
