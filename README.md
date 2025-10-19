@@ -1,22 +1,22 @@
 # PDF Malware Analysis Experiment
 
 ### Purpose of this Repository  
-This project attempts to reproduce the work of Liu et al., "Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model"
+- This project attempts to reproduce the work of Liu et al., "Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model"
 
 
 ### Keyterms you may need to understand this repository:  
-Object Reference Graphs(ORGS)  
-Intermediate Representation(IR)
+- Object Reference Graphs(ORGS):  
+- Intermediate Representation(IR):
 
 
 ### ComputerSecurityProjectGit/:
-### |--data/: stores all input and data files. 
-#### |--raw/: directory for raw PDF files from dataset.  
- #### |--ir/: directory for PDFObj IR files.  
- #### |--orgs/: ORGS created from IR files.  
- #### |--aorgs/: Attributed ORGs with node embeddings.  
-### |--models/: stores all trained or pretrained machine learning models.  
- #### |--bert65k/: Pretrained BERT embeddings.  
+- |--data/: stores all input and data files. 
+-  |--raw/: directory for raw PDF files from dataset.  
+-  |--ir/: directory for PDFObj IR files.  
+-  |--orgs/: ORGS created from IR files.  
+-  |--aorgs/: Attributed ORGs with node embeddings.  
+- |--models/: stores all trained or pretrained machine learning models.  
+- |--bert65k/: Pretrained BERT embeddings.  
  #### |--gin/: Trained Graph Isomorphism Network (GIN) models.  
 ### |--output/: Results generated from scripts.  
  #### |--metrics/: Accuracy, TPR, TNR, TRA, etc.  
