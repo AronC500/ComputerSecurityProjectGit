@@ -1,15 +1,15 @@
 # PDF Malware Analysis Experiment
 
-## Purpose of this Repository  
-### This project attempts to reproduce the work of Liu et al., "Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model"
+### Purpose of this Repository  
+This project attempts to reproduce the work of Liu et al., "Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model"
 
 
-## Keyterms you may need to understand this repository:  
-### Object Reference Graphs(ORGS)  
-### Intermediate Representation(IR)
+### Keyterms you may need to understand this repository:  
+Object Reference Graphs(ORGS)  
+Intermediate Representation(IR)
 
 
-## ComputerSecurityProjectGit/:
+### ComputerSecurityProjectGit/:
 ### |--data/: stores all input and data files. 
 #### |--raw/: directory for raw PDF files from dataset.  
  #### |--ir/: directory for PDFObj IR files.  
