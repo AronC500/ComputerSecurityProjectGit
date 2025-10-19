@@ -22,10 +22,10 @@
 &nbsp;&nbsp;|--metrics/: Accuracy, TPR, TNR, TRA, etc.  
 &nbsp;&nbsp;|--plots/: For any Graphs, curves, and visualizations.  
 |--scripts/: Python scripts.  
-&nbsp;&nbsp;|--poir.py/: Converts PDFs to PDFObj IR.
+&nbsp;&nbsp;|--poir.py/: Converts PDFs to PDFObj IR.  
 &nbsp;&nbsp;|--buildORGs.py/: Constructs Object Reference Graphs (ORGs)  
 &nbsp;&nbsp;|--embed_aorg.py/: Generates node embeddings (PDFObj2Vec)  
-&nbsp;&nbsp;|--trainGIN.py/: Trains the GIN classifier.
+&nbsp;&nbsp;|--trainGIN.py/: Trains the GIN classifier.  
 |--Dockerfile/: CPU Docker container setup to reproduce experiment.  
 &nbsp;&nbsp;|--requirements.txt/: List of Python packages needed for the project  
 &nbsp;&nbsp;|--entrypoint.sh/: Script to run any pipeline step easily inside Docker
