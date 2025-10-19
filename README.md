@@ -10,8 +10,8 @@
 
 
 ## ComputerSecurityProjectGit/:
-### |--data/: stores all input and data files.  
- #### |--raw/: directory for raw PDF files from dataset.  
+### |--data/: stores all input and data files. 
+#### |--raw/: directory for raw PDF files from dataset.  
  #### |--ir/: directory for PDFObj IR files.  
  #### |--orgs/: ORGS created from IR files.  
  #### |--aorgs/: Attributed ORGs with node embeddings.  
