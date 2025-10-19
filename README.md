@@ -6,9 +6,7 @@ Object Reference Graphs(ORGS)
 Intermediate Representation(IR)
 
 data/: stores all input and data files.  
-
 |--raw/: directory for raw PDF files from dataset.  
-
 |--ir/: directory for PDFObj IR files.
 
 |--orgs/: ORGS created from IR files.
