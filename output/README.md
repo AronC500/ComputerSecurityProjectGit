@@ -1,1 +1,0 @@
-Stores experiment outputs.
