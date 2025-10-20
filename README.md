@@ -41,7 +41,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;|--trainGIN.py/: Script to trains the GIN classifier.  
 |**--Dockerfile/: CPU Docker container setup to reproduce experiment.**  
 &nbsp;&nbsp;&nbsp;&nbsp;|--PythonDependencies.txt/: List of Python packages needed for the project to run.  
-&nbsp;&nbsp;&nbsp;&nbsp;|--entrypoint.sh/: shell script that acts as the main entry point when running the &nbsp;&nbsp;&nbsp;&nbsp;Docker container as it simplifies running project commands inside the container.
+&nbsp;&nbsp;&nbsp;&nbsp;|--entrypoint.sh/: shell script that acts as the main entry point when running the &nbsp;&nbsp;&nbsp;&nbsp;Docker container as it &nbsp;&nbsp;&nbsp;&nbsp;simplifies running project commands inside the container.
 
 ### Contributors
 - Aron Chen, James Dobbs, Allison, Jason Huang
