@@ -15,7 +15,7 @@
 ### Keyterms you may need to understand this repository:  
 - Object Reference Graph(ORG): graph representation of a PDF document.
 - Intermediate Representation(IR): an way to represent a PDF's content that makes it easier for program to understand and thus analyze.
-- BERT: deep laerning model that can be trained using large amount of text.
+- BERT: deep learning model that can be trained using large amount of text.
 - Graph Isomorphism Network(GIN): classify graphs or predict properties of nodes/graphs 
 - node embeddings: in our experiment, nodes are PDF objects in a graph and node embeddings are numerical vector representations of each node.
 - Classifier: The machine learning model that predict if a PDF is malicious or not.
@@ -32,7 +32,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;|--bert65k/: directory for Pretrained BERT embeddings.  
 &nbsp;&nbsp;&nbsp;&nbsp;|--gin/: directory for trained Graph Isomorphism Network (GIN) models.  
 |**--output/: Results generated from scripts.**  
-&nbsp;&nbsp;&nbsp;&nbsp;|--metrics/: Includes accuracy of predictions, TPR(portion of malicious PDFs &nbsp;&nbsp;correctly detected), TNR(proportion of benign PDFS correctly detected), TRA(how &nbsp;&nbsp;resistant model is to attacks), etc.  
+&nbsp;&nbsp;&nbsp;&nbsp;|--metrics/: Includes accuracy of predictions, TPR(portion of malicious PDFs &nbsp;&nbsp;&nbsp;correctly detected), TNR(proportion of benign PDFS correctly detected), TRA(how &nbsp;&nbsp;&nbsp;resistant model is to attacks), etc.  
 &nbsp;&nbsp;&nbsp;&nbsp;|--plots/: Includes any Graphs, curves, and visualizations if any.  
 |**--scripts/: Python scripts.**  
 &nbsp;&nbsp;&nbsp;&nbsp;|--poir.py/: Script to converts from PDFs to PDFObj IR.  
@@ -41,7 +41,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;|--trainGIN.py/: Script to trains the GIN classifier.  
 |**--Dockerfile/: CPU Docker container setup to reproduce experiment.**  
 &nbsp;&nbsp;&nbsp;&nbsp;|--PythonDependencies.txt/: List of Python packages needed for the project to run.  
-&nbsp;&nbsp;&nbsp;&nbsp;|--entrypoint.sh/: shell script that acts as the main entry point when running the &nbsp;&nbsp;Docker container as it simplifies running project commands inside the container.
+&nbsp;&nbsp;&nbsp;&nbsp;|--entrypoint.sh/: shell script that acts as the main entry point when running the &nbsp;&nbsp;&nbsp;Docker container as it simplifies running project commands inside the container.
 
 ### Contributors
 - Aron Chen, James Dobbs, Allison, Jason Huang
