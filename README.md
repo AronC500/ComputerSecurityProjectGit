@@ -11,7 +11,6 @@
 - System level dependencies: git, wget, curl, build-essential, make, cmake, pkg-config, python3-dev, libxml2-dev, libxslt1-dev, poppler-utils, qpdf, mupdf-tools, unzip.  
 - In Docker, use an Docker image that already have Python 3.11 installed. For the python dependencies, install them inside the Dockerfile using 'pip'. For the system-level dependencies, install them in the Dockerfile using 'apt-get'.
 
-
 ### Keyterms you may need to understand this repository:  
 - Object Reference Graph(ORG): graph representation of a PDF document.
 - Intermediate Representation(IR): an way to represent a PDF's content that makes it easier for program to understand and thus analyze.
@@ -42,6 +41,10 @@
 |**--Dockerfile/: CPU Docker container setup to reproduce experiment.**  
 &nbsp;&nbsp;&nbsp;&nbsp;|--PythonDependencies.txt/: List of Python packages needed for the project to run.  
 &nbsp;&nbsp;&nbsp;&nbsp;|--entrypoint.sh/: shell script that acts as the main entry point when running the &nbsp;&nbsp;&nbsp;&nbsp;Docker container as it &nbsp;&nbsp;&nbsp;&nbsp;simplifies running project commands inside the container.
+
+
+### Datasets Source
+- ** https://zenodo.org/records/15532394 **
 
 ### Contributors
 - Aron Chen, James Dobbs, Allison, Jason Huang
