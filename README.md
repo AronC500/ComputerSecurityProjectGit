@@ -39,8 +39,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;|--embed_aorg.py/: Script to generates node embeddings (PDFObj2Vec).   
 &nbsp;&nbsp;&nbsp;&nbsp;|--trainGIN.py/: Script to trains the GIN classifier.  
 |**--Dockerfile/: CPU Docker container setup to reproduce experiment.**  
-&nbsp;&nbsp;&nbsp;&nbsp;|--PythonDependencies.txt/: List of Python packages needed for the project to run.  
-&nbsp;&nbsp;&nbsp;&nbsp;|--entrypoint.sh/: shell script that acts as the main entry point when running the &nbsp;&nbsp;&nbsp;&nbsp;Docker container as it &nbsp;&nbsp;&nbsp;&nbsp;simplifies running project commands inside the container.
+|**--PythonDependencies.txt/: List of Python packages needed for the project to run.  **
+|**--entrypoint.sh/: shell script that acts as the main entry point when running the &nbsp;&nbsp;&nbsp;&nbsp;Docker container as it &nbsp;&nbsp;&nbsp;&nbsp;simplifies running project commands inside the container. 
 
 
 ### Datasets Source(From Liu's et al, Experiment)
