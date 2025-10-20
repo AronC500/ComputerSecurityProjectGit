@@ -32,7 +32,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;|--bert65k/: directory for Pretrained BERT embeddings.  
 &nbsp;&nbsp;&nbsp;&nbsp;|--gin/: directory for trained Graph Isomorphism Network (GIN) models.  
 |**--output/: Results generated from scripts.**  
-&nbsp;&nbsp;&nbsp;&nbsp;|--metrics/: Includes accuracy of predictions, TPR(portion of malicious PDFs &nbsp;&nbsp;&nbsp;&nbsp;correctly detected), TNR(proportion of benign PDFS correctly detected), TRA(how &nbsp;&nbsp;&nbsp;&nbsp;resistant model is to attacks), etc.  
+&nbsp;&nbsp;&nbsp;&nbsp;|--metrics/: Includes accuracy of predictions, TPR(portion of malicious PDFs &nbsp;&nbsp;&nbsp;&nbsp;correctly detected), &nbsp;&nbsp;&nbsp;&nbsp;TNR(proportion of benign PDFS correctly detected), TRA(how &nbsp;&nbsp;&nbsp;&nbsp;resistant model is to attacks), etc.  
 &nbsp;&nbsp;&nbsp;&nbsp;|--plots/: Includes any Graphs, curves, and visualizations if any.  
 |**--scripts/: Python scripts.**  
 &nbsp;&nbsp;&nbsp;&nbsp;|--poir.py/: Script to converts from PDFs to PDFObj IR.  
