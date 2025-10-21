@@ -47,4 +47,4 @@
 - https://zenodo.org/records/15532394 
 
 ### Contributors
-- Aron Chen, James Dobbs, Allison, Jason Huang
+- Aron Chen, James Dobbs, Allison Gorman, Jason Huang
