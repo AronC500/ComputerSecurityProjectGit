@@ -1,0 +1,505 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ],
+            [
+                "/Version",
+                "NAME",
+                "/1.4"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "20"
+            ],
+            [
+                "/OpenAction",
+                "REF",
+                "30"
+            ]
+        ],
+        "out_edge_list": [
+            20,
+            30
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "5"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "40"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "50"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "60"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "70"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "80"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "5"
+            ]
+        ],
+        "out_edge_list": [
+            40,
+            50,
+            60,
+            70,
+            80
+        ]
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Action"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ],
+            [
+                "/JS",
+                "REF",
+                "870"
+            ]
+        ],
+        "out_edge_list": [
+            870
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "100"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "20"
+            ]
+        ],
+        "out_edge_list": [
+            90,
+            100,
+            20
+        ]
+    },
+    "50": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "110"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "120"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "20"
+            ]
+        ],
+        "out_edge_list": [
+            110,
+            120,
+            20
+        ]
+    },
+    "60": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "130"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "140"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "20"
+            ]
+        ],
+        "out_edge_list": [
+            130,
+            140,
+            20
+        ]
+    },
+    "70": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "20"
+            ]
+        ],
+        "out_edge_list": [
+            20
+        ]
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "20"
+            ]
+        ],
+        "out_edge_list": [
+            20
+        ]
+    },
+    "90": {
+        "insn_list": [
+            [
+                "/Font",
+                "REF",
+                "150"
+            ],
+            [
+                "/XObject",
+                "REF",
+                "160"
+            ]
+        ],
+        "out_edge_list": [
+            150,
+            160
+        ]
+    },
+    "100": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME_LIST",
+                "1"
+            ],
+            [
+                "/Length",
+                "REF",
+                "170"
+            ]
+        ],
+        "out_edge_list": [
+            170
+        ]
+    },
+    "110": {
+        "insn_list": [
+            [
+                "/Font",
+                "REF",
+                "180"
+            ],
+            [
+                "/XObject",
+                "REF",
+                "190"
+            ]
+        ],
+        "out_edge_list": [
+            180,
+            190
+        ]
+    },
+    "120": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME_LIST",
+                "1"
+            ],
+            [
+                "/Length",
+                "REF",
+                "200"
+            ]
+        ],
+        "out_edge_list": [
+            200
+        ]
+    },
+    "130": {
+        "insn_list": [
+            [
+                "/Font",
+                "REF",
+                "210"
+            ],
+            [
+                "/XObject",
+                "REF",
+                "220"
+            ]
+        ],
+        "out_edge_list": [
+            210,
+            220
+        ]
+    },
+    "140": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME_LIST",
+                "1"
+            ],
+            [
+                "/Length",
+                "REF",
+                "230"
+            ]
+        ],
+        "out_edge_list": [
+            230
+        ]
+    },
+    "150": {
+        "insn_list": [
+            [
+                "/F0",
+                "REF",
+                "240"
+            ]
+        ],
+        "out_edge_list": [
+            240
+        ]
+    },
+    "160": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "NULL",
+                "<Blank>"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "170": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "251"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "180": {
+        "insn_list": [
+            [
+                "/F0",
+                "REF",
+                "240"
+            ]
+        ],
+        "out_edge_list": [
+            240
+        ]
+    },
+    "190": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "NULL",
+                "<Blank>"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "200": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "232"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "210": {
+        "insn_list": [
+            [
+                "/F0",
+                "REF",
+                "240"
+            ]
+        ],
+        "out_edge_list": [
+            240
+        ]
+    },
+    "220": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "NULL",
+                "<Blank>"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "230": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "259"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "240": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/ZapfDingbats"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "870": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME_LIST",
+                "1"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "9049"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

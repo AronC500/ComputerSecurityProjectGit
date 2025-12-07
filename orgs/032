@@ -1,0 +1,1524 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "400"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/XObject",
+                "REF",
+                "20"
+            ],
+            [
+                "/Resources/ProcSet",
+                "REF",
+                "380"
+            ]
+        ],
+        "out_edge_list": [
+            400,
+            20,
+            380
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/im1",
+                "REF",
+                "230"
+            ],
+            [
+                "/im2",
+                "REF",
+                "250"
+            ],
+            [
+                "/im3",
+                "REF",
+                "270"
+            ],
+            [
+                "/im4",
+                "REF",
+                "290"
+            ],
+            [
+                "/im5",
+                "REF",
+                "310"
+            ],
+            [
+                "/im6",
+                "REF",
+                "330"
+            ],
+            [
+                "/im7",
+                "REF",
+                "350"
+            ],
+            [
+                "/im8",
+                "REF",
+                "370"
+            ]
+        ],
+        "out_edge_list": [
+            230,
+            250,
+            270,
+            290,
+            310,
+            330,
+            350,
+            370
+        ]
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "REF_LIST",
+                "9"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "50"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "70"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "90"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "110"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "130"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "150"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "170"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "190"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "210"
+            ]
+        ],
+        "out_edge_list": [
+            50,
+            70,
+            90,
+            110,
+            130,
+            150,
+            170,
+            190,
+            210
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "49"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "50": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "REF",
+                "40"
+            ]
+        ],
+        "out_edge_list": [
+            40
+        ]
+    },
+    "60": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "50"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "70": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "REF",
+                "60"
+            ]
+        ],
+        "out_edge_list": [
+            60
+        ]
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "52"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "90": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "REF",
+                "80"
+            ]
+        ],
+        "out_edge_list": [
+            80
+        ]
+    },
+    "100": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "51"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "110": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "REF",
+                "100"
+            ]
+        ],
+        "out_edge_list": [
+            100
+        ]
+    },
+    "120": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "49"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "130": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "REF",
+                "120"
+            ]
+        ],
+        "out_edge_list": [
+            120
+        ]
+    },
+    "140": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "49"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "150": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "REF",
+                "140"
+            ]
+        ],
+        "out_edge_list": [
+            140
+        ]
+    },
+    "160": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "51"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "170": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "REF",
+                "160"
+            ]
+        ],
+        "out_edge_list": [
+            160
+        ]
+    },
+    "180": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "43"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "190": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "REF",
+                "180"
+            ]
+        ],
+        "out_edge_list": [
+            180
+        ]
+    },
+    "200": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "13"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "210": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "REF",
+                "200"
+            ]
+        ],
+        "out_edge_list": [
+            200
+        ]
+    },
+    "220": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "4011"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "230": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/XObject"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Image"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/im1"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/CCITTFaxDecode"
+            ],
+            [
+                "/Width",
+                "NUM",
+                "2400"
+            ],
+            [
+                "/Height",
+                "NUM",
+                "658"
+            ],
+            [
+                "/BitsPerComponent",
+                "NUM",
+                "1"
+            ],
+            [
+                "/ColorSpace",
+                "NAME",
+                "/DeviceGray"
+            ],
+            [
+                "/Length",
+                "REF",
+                "220"
+            ],
+            [
+                "/DecodeParms",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms/K",
+                "NUM",
+                "-1"
+            ],
+            [
+                "/DecodeParms/Columns",
+                "NUM",
+                "2400"
+            ]
+        ],
+        "out_edge_list": [
+            220
+        ]
+    },
+    "240": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "7500"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "250": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/XObject"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Image"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/im2"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/CCITTFaxDecode"
+            ],
+            [
+                "/Width",
+                "NUM",
+                "2400"
+            ],
+            [
+                "/Height",
+                "NUM",
+                "163"
+            ],
+            [
+                "/BitsPerComponent",
+                "NUM",
+                "1"
+            ],
+            [
+                "/ColorSpace",
+                "NAME",
+                "/DeviceGray"
+            ],
+            [
+                "/Length",
+                "REF",
+                "240"
+            ],
+            [
+                "/DecodeParms",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms/K",
+                "NUM",
+                "-1"
+            ],
+            [
+                "/DecodeParms/Columns",
+                "NUM",
+                "2400"
+            ]
+        ],
+        "out_edge_list": [
+            240
+        ]
+    },
+    "260": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "14914"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "270": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/XObject"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Image"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/im3"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/CCITTFaxDecode"
+            ],
+            [
+                "/Width",
+                "NUM",
+                "2400"
+            ],
+            [
+                "/Height",
+                "NUM",
+                "658"
+            ],
+            [
+                "/BitsPerComponent",
+                "NUM",
+                "1"
+            ],
+            [
+                "/ColorSpace",
+                "NAME",
+                "/DeviceGray"
+            ],
+            [
+                "/Length",
+                "REF",
+                "260"
+            ],
+            [
+                "/DecodeParms",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms/K",
+                "NUM",
+                "-1"
+            ],
+            [
+                "/DecodeParms/Columns",
+                "NUM",
+                "2400"
+            ]
+        ],
+        "out_edge_list": [
+            260
+        ]
+    },
+    "280": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "1480"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "290": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/XObject"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Image"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/im4"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/CCITTFaxDecode"
+            ],
+            [
+                "/Width",
+                "NUM",
+                "2400"
+            ],
+            [
+                "/Height",
+                "NUM",
+                "163"
+            ],
+            [
+                "/BitsPerComponent",
+                "NUM",
+                "1"
+            ],
+            [
+                "/ColorSpace",
+                "NAME",
+                "/DeviceGray"
+            ],
+            [
+                "/Length",
+                "REF",
+                "280"
+            ],
+            [
+                "/DecodeParms",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms/K",
+                "NUM",
+                "-1"
+            ],
+            [
+                "/DecodeParms/Columns",
+                "NUM",
+                "2400"
+            ]
+        ],
+        "out_edge_list": [
+            280
+        ]
+    },
+    "300": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "2152"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "310": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/XObject"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Image"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/im5"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/CCITTFaxDecode"
+            ],
+            [
+                "/Width",
+                "NUM",
+                "2400"
+            ],
+            [
+                "/Height",
+                "NUM",
+                "658"
+            ],
+            [
+                "/BitsPerComponent",
+                "NUM",
+                "1"
+            ],
+            [
+                "/ColorSpace",
+                "NAME",
+                "/DeviceGray"
+            ],
+            [
+                "/Length",
+                "REF",
+                "300"
+            ],
+            [
+                "/DecodeParms",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms/K",
+                "NUM",
+                "-1"
+            ],
+            [
+                "/DecodeParms/Columns",
+                "NUM",
+                "2400"
+            ]
+        ],
+        "out_edge_list": [
+            300
+        ]
+    },
+    "320": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "305"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "330": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/XObject"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Image"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/im6"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/CCITTFaxDecode"
+            ],
+            [
+                "/Width",
+                "NUM",
+                "2400"
+            ],
+            [
+                "/Height",
+                "NUM",
+                "163"
+            ],
+            [
+                "/BitsPerComponent",
+                "NUM",
+                "1"
+            ],
+            [
+                "/ColorSpace",
+                "NAME",
+                "/DeviceGray"
+            ],
+            [
+                "/Length",
+                "REF",
+                "320"
+            ],
+            [
+                "/DecodeParms",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms/K",
+                "NUM",
+                "-1"
+            ],
+            [
+                "/DecodeParms/Columns",
+                "NUM",
+                "2400"
+            ]
+        ],
+        "out_edge_list": [
+            320
+        ]
+    },
+    "340": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "1702"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "350": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/XObject"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Image"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/im7"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/CCITTFaxDecode"
+            ],
+            [
+                "/Width",
+                "NUM",
+                "2400"
+            ],
+            [
+                "/Height",
+                "NUM",
+                "658"
+            ],
+            [
+                "/BitsPerComponent",
+                "NUM",
+                "1"
+            ],
+            [
+                "/ColorSpace",
+                "NAME",
+                "/DeviceGray"
+            ],
+            [
+                "/Length",
+                "REF",
+                "340"
+            ],
+            [
+                "/DecodeParms",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms/K",
+                "NUM",
+                "-1"
+            ],
+            [
+                "/DecodeParms/Columns",
+                "NUM",
+                "2400"
+            ]
+        ],
+        "out_edge_list": [
+            340
+        ]
+    },
+    "360": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "87"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "370": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/XObject"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Image"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/im8"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/CCITTFaxDecode"
+            ],
+            [
+                "/Width",
+                "NUM",
+                "2400"
+            ],
+            [
+                "/Height",
+                "NUM",
+                "29"
+            ],
+            [
+                "/BitsPerComponent",
+                "NUM",
+                "1"
+            ],
+            [
+                "/ColorSpace",
+                "NAME",
+                "/DeviceGray"
+            ],
+            [
+                "/Length",
+                "REF",
+                "360"
+            ],
+            [
+                "/DecodeParms",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms/K",
+                "NUM",
+                "-1"
+            ],
+            [
+                "/DecodeParms/Columns",
+                "NUM",
+                "2400"
+            ]
+        ],
+        "out_edge_list": [
+            360
+        ]
+    },
+    "380": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "NAME_LIST",
+                "2"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "390": {
+        "insn_list": [
+            [
+                "/Creator",
+                "STR",
+                "(Adobe Photoshop LE)"
+            ],
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20000210122008Z)"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(Comments on Exemption to Prohibition on Circumvention Measures)"
+            ],
+            [
+                "/Author",
+                "STR",
+                "(U.S. Copyright Office)"
+            ],
+            [
+                "/Producer",
+                "STR",
+                "(Acrobat PDFWriter 4.0 for Windows NT)"
+            ],
+            [
+                "/ModDate",
+                "STR",
+                "(D:20020429115938-04'00')"
+            ],
+            [
+                "/Subject",
+                "STR",
+                "(Comments on Exemption to Prohibition on Circumvention Measures)"
+            ],
+            [
+                "/Keywords",
+                "STR",
+                "(copyright, anticircumvention, 1201)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "400": {
+        "insn_list": [
+            [
+                "/Kids",
+                "REF_LIST",
+                "2"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "440"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "10"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "2"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ]
+        ],
+        "out_edge_list": [
+            440,
+            10
+        ]
+    },
+    "410": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1926"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "420": {
+        "insn_list": [
+            [
+                "/Linearized",
+                "NUM",
+                "1"
+            ],
+            [
+                "/O",
+                "NUM",
+                "44"
+            ],
+            [
+                "/H",
+                "NUM_LIST",
+                "2"
+            ],
+            [
+                "/L",
+                "NUM",
+                "66789"
+            ],
+            [
+                "/E",
+                "NUM",
+                "27638"
+            ],
+            [
+                "/N",
+                "NUM",
+                "2"
+            ],
+            [
+                "/T",
+                "NUM",
+                "65831"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "430": {
+        "insn_list": [
+            [
+                "/Pages",
+                "REF",
+                "400"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ],
+            [
+                "/Metadata",
+                "REF",
+                "410"
+            ]
+        ],
+        "out_edge_list": [
+            400,
+            410
+        ]
+    },
+    "440": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "400"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/XObject",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/XObject/im1",
+                "REF",
+                "510"
+            ]
+        ],
+        "out_edge_list": [
+            400,
+            510
+        ]
+    },
+    "450": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "REF_LIST",
+                "2"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "470"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "490"
+            ]
+        ],
+        "out_edge_list": [
+            470,
+            490
+        ]
+    },
+    "460": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "45"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "470": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "460"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": [
+            460
+        ]
+    },
+    "480": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "11"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "490": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "480"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": [
+            480
+        ]
+    },
+    "500": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "25827"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "510": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/XObject"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Image"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/im1"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/CCITTFaxDecode"
+            ],
+            [
+                "/Width",
+                "NUM",
+                "1237"
+            ],
+            [
+                "/Height",
+                "NUM",
+                "1613"
+            ],
+            [
+                "/BitsPerComponent",
+                "NUM",
+                "1"
+            ],
+            [
+                "/ColorSpace",
+                "NAME",
+                "/DeviceGray"
+            ],
+            [
+                "/Length",
+                "REF",
+                "500"
+            ],
+            [
+                "/DecodeParms",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms/K",
+                "NUM",
+                "-1"
+            ],
+            [
+                "/DecodeParms/Columns",
+                "NUM",
+                "1237"
+            ]
+        ],
+        "out_edge_list": [
+            500
+        ]
+    },
+    "520": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "NAME_LIST",
+                "2"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "530": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/S",
+                "NUM",
+                "46"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "REF",
+                "540"
+            ]
+        ],
+        "out_edge_list": [
+            540
+        ]
+    },
+    "540": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "70"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

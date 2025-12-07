@@ -1,0 +1,137 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/Outlines",
+                "REF",
+                "20"
+            ],
+            [
+                "/OpenAction",
+                "REF",
+                "30"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "40"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ]
+        ],
+        "out_edge_list": [
+            20,
+            30,
+            40
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/Count",
+                "NUM",
+                "0"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Outlines"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/JS",
+                "REF",
+                "60"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Action"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ]
+        ],
+        "out_edge_list": [
+            60
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "50"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ]
+        ],
+        "out_edge_list": [
+            50
+        ]
+    },
+    "50": {
+        "insn_list": [
+            [
+                "/Parent",
+                "REF",
+                "40"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/pdftk_PageNum",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ]
+        ],
+        "out_edge_list": [
+            40
+        ]
+    },
+    "60": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "2092"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

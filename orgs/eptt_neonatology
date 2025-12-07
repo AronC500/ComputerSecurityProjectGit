@@ -1,0 +1,1516 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20020730162029-0400)"
+            ],
+            [
+                "/Producer",
+                "STR",
+                "(txt2pdf v5.2 \\251 SANFACE Software 2001)"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(012862.txt)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "30"
+            ]
+        ],
+        "out_edge_list": [
+            30
+        ]
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "19"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "19"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "100"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "130"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "160"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "190"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "220"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "250"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "280"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "310"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "340"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "370"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "400"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "430"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "460"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "490"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "520"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "550"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "580"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "610"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "640"
+            ]
+        ],
+        "out_edge_list": [
+            100,
+            130,
+            160,
+            190,
+            220,
+            250,
+            280,
+            310,
+            340,
+            370,
+            400,
+            430,
+            460,
+            490,
+            520,
+            550,
+            580,
+            610,
+            640
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/F1"
+            ],
+            [
+                "/Encoding",
+                "REF",
+                "80"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/Courier"
+            ]
+        ],
+        "out_edge_list": [
+            80
+        ]
+    },
+    "50": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/F2"
+            ],
+            [
+                "/Encoding",
+                "REF",
+                "80"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/Courier-Oblique"
+            ]
+        ],
+        "out_edge_list": [
+            80
+        ]
+    },
+    "60": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/F3"
+            ],
+            [
+                "/Encoding",
+                "REF",
+                "80"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/Courier-Bold"
+            ]
+        ],
+        "out_edge_list": [
+            80
+        ]
+    },
+    "70": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/F4"
+            ],
+            [
+                "/Encoding",
+                "REF",
+                "80"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/Courier-BoldOblique"
+            ]
+        ],
+        "out_edge_list": [
+            80
+        ]
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Encoding"
+            ],
+            [
+                "/Differences",
+                "MIX_LIST",
+                "257"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "90": {
+        "insn_list": [
+            [
+                "/Font",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Font/F1",
+                "REF",
+                "40"
+            ],
+            [
+                "/Font/F2",
+                "REF",
+                "50"
+            ],
+            [
+                "/Font/F3",
+                "REF",
+                "60"
+            ],
+            [
+                "/Font/F4",
+                "REF",
+                "70"
+            ]
+        ],
+        "out_edge_list": [
+            40,
+            50,
+            60,
+            70
+        ]
+    },
+    "100": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "110"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            110
+        ]
+    },
+    "110": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "120"
+            ]
+        ],
+        "out_edge_list": [
+            120
+        ]
+    },
+    "120": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "1302"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "130": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "140"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            140
+        ]
+    },
+    "140": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "150"
+            ]
+        ],
+        "out_edge_list": [
+            150
+        ]
+    },
+    "150": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "1886"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "160": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "170"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            170
+        ]
+    },
+    "170": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "180"
+            ]
+        ],
+        "out_edge_list": [
+            180
+        ]
+    },
+    "180": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "2709"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "190": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "200"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            200
+        ]
+    },
+    "200": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "210"
+            ]
+        ],
+        "out_edge_list": [
+            210
+        ]
+    },
+    "210": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "3368"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "220": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "230"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            230
+        ]
+    },
+    "230": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "240"
+            ]
+        ],
+        "out_edge_list": [
+            240
+        ]
+    },
+    "240": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "3571"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "250": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "260"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            260
+        ]
+    },
+    "260": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "270"
+            ]
+        ],
+        "out_edge_list": [
+            270
+        ]
+    },
+    "270": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "3687"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "280": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "290"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            290
+        ]
+    },
+    "290": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "300"
+            ]
+        ],
+        "out_edge_list": [
+            300
+        ]
+    },
+    "300": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "3486"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "310": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "320"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            320
+        ]
+    },
+    "320": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "330"
+            ]
+        ],
+        "out_edge_list": [
+            330
+        ]
+    },
+    "330": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "3390"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "340": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "350"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            350
+        ]
+    },
+    "350": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "360"
+            ]
+        ],
+        "out_edge_list": [
+            360
+        ]
+    },
+    "360": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "3331"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "370": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "380"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            380
+        ]
+    },
+    "380": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "390"
+            ]
+        ],
+        "out_edge_list": [
+            390
+        ]
+    },
+    "390": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "3722"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "400": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "410"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            410
+        ]
+    },
+    "410": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "420"
+            ]
+        ],
+        "out_edge_list": [
+            420
+        ]
+    },
+    "420": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "3618"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "430": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "440"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            440
+        ]
+    },
+    "440": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "450"
+            ]
+        ],
+        "out_edge_list": [
+            450
+        ]
+    },
+    "450": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "3524"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "460": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "470"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            470
+        ]
+    },
+    "470": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "480"
+            ]
+        ],
+        "out_edge_list": [
+            480
+        ]
+    },
+    "480": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "4146"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "490": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "500"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            500
+        ]
+    },
+    "500": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "510"
+            ]
+        ],
+        "out_edge_list": [
+            510
+        ]
+    },
+    "510": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "3663"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "520": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "530"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            530
+        ]
+    },
+    "530": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "540"
+            ]
+        ],
+        "out_edge_list": [
+            540
+        ]
+    },
+    "540": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "3579"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "550": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "560"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            560
+        ]
+    },
+    "560": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "570"
+            ]
+        ],
+        "out_edge_list": [
+            570
+        ]
+    },
+    "570": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "3574"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "580": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "590"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            590
+        ]
+    },
+    "590": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "600"
+            ]
+        ],
+        "out_edge_list": [
+            600
+        ]
+    },
+    "600": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "3320"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "610": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "620"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            620
+        ]
+    },
+    "620": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "630"
+            ]
+        ],
+        "out_edge_list": [
+            630
+        ]
+    },
+    "630": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "3650"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "640": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "90"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "650"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            90,
+            650
+        ]
+    },
+    "650": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "660"
+            ]
+        ],
+        "out_edge_list": [
+            660
+        ]
+    },
+    "660": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "1226"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

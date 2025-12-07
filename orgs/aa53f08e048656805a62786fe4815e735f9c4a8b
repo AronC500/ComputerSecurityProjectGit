@@ -1,0 +1,382 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "20"
+            ],
+            [
+                "/Names",
+                "REF",
+                "30"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ],
+            [
+                "/Outlines",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Outlines/Count",
+                "NUM",
+                "0"
+            ],
+            [
+                "/Outlines/Type",
+                "NAME",
+                "/Outlines"
+            ]
+        ],
+        "out_edge_list": [
+            20,
+            30
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "40"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/Font",
+                "DICT",
+                "<Blank>"
+            ]
+        ],
+        "out_edge_list": [
+            40
+        ]
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/JavaScript",
+                "REF",
+                "50"
+            ]
+        ],
+        "out_edge_list": [
+            50
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "20"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "120"
+            ],
+            [
+                "/JavaScript",
+                "REF",
+                "100"
+            ]
+        ],
+        "out_edge_list": [
+            20,
+            120,
+            100
+        ]
+    },
+    "50": {
+        "insn_list": [
+            [
+                "/Names",
+                "MIX_LIST",
+                "6"
+            ],
+            [
+                "/Names",
+                "REF",
+                "60"
+            ],
+            [
+                "/Names",
+                "REF",
+                "70"
+            ],
+            [
+                "/Names",
+                "REF",
+                "80"
+            ],
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "21"
+            ]
+        ],
+        "out_edge_list": [
+            60,
+            70,
+            80
+        ]
+    },
+    "60": {
+        "insn_list": [
+            [
+                "/JS",
+                "REF",
+                "1117110"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ],
+            [
+                "/CS",
+                "NAME",
+                "/DeviceRGB"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/Transparency"
+            ]
+        ],
+        "out_edge_list": [
+            1117110
+        ]
+    },
+    "70": {
+        "insn_list": [
+            [
+                "/JS",
+                "REF",
+                "1117120"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ],
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "13820"
+            ],
+            [
+                "/Filter",
+                "NAME_LIST",
+                "1"
+            ]
+        ],
+        "out_edge_list": [
+            1117120
+        ]
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/JS",
+                "REF",
+                "1117130"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ]
+        ],
+        "out_edge_list": [
+            1117130
+        ]
+    },
+    "100": {
+        "insn_list": [
+            [
+                "/Names",
+                "MIX_LIST",
+                "2"
+            ],
+            [
+                "/Names",
+                "REF",
+                "140"
+            ]
+        ],
+        "out_edge_list": [
+            140
+        ]
+    },
+    "140": {
+        "insn_list": [
+            [
+                "/JS",
+                "REF",
+                "70"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ]
+        ],
+        "out_edge_list": [
+            70
+        ]
+    },
+    "150": {
+        "insn_list": [
+            [
+                "/Creator",
+                "STR",
+                "(PDF Library 4.3.9)"
+            ],
+            [
+                "/Title",
+                "NUM",
+                "183"
+            ],
+            [
+                "/Producer",
+                "STR",
+                "(PDF Library 3.9.7)"
+            ],
+            [
+                "/Author",
+                "NUM",
+                "068"
+            ],
+            [
+                "/Keywords",
+                "NUM",
+                "9"
+            ],
+            [
+                "/Trapped",
+                "NAME",
+                "/False"
+            ],
+            [
+                "/ModDate",
+                "STR",
+                "(D:20091115195993)"
+            ],
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20091115194170)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1117110": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1618"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1117120": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "278"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1117130": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "22"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

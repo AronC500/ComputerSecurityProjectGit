@@ -1,0 +1,256 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1203"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ],
+            [
+                "/O#75t#6cines",
+                "REF",
+                "40"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "50"
+            ],
+            [
+                "/OpenAction",
+                "REF",
+                "90"
+            ]
+        ],
+        "out_edge_list": [
+            40,
+            50,
+            90
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/O#75tlines"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "50": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Co#75nt",
+                "NUM",
+                "2"
+            ],
+            [
+                "/#4bids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/#4bids",
+                "REF",
+                "80"
+            ]
+        ],
+        "out_edge_list": [
+            80
+        ]
+    },
+    "60": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/3D"
+            ],
+            [
+                "/S#75#62type",
+                "NAME",
+                "/#553D"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "304"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "70": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Annot"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/3D"
+            ],
+            [
+                "/3DA",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/3DA/A",
+                "NAME",
+                "/PO"
+            ],
+            [
+                "/3DA/DIS",
+                "NAME",
+                "/I"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "50"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Annots",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Annots",
+                "REF",
+                "70"
+            ],
+            [
+                "/AA",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/AA/O",
+                "REF",
+                "100"
+            ]
+        ],
+        "out_edge_list": [
+            50,
+            70,
+            100
+        ]
+    },
+    "90": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Action"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ],
+            [
+                "/JS",
+                "REF",
+                "10"
+            ]
+        ],
+        "out_edge_list": [
+            10
+        ]
+    },
+    "100": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Action"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ],
+            [
+                "/JS",
+                "REF",
+                "110"
+            ]
+        ],
+        "out_edge_list": [
+            110
+        ]
+    },
+    "110": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "117"
+            ],
+            [
+                "/Filter",
+                "NAME_LIST",
+                "2"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

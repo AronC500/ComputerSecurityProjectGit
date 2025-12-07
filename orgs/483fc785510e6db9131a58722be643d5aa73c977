@@ -1,0 +1,955 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "416219"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/DL",
+                "NUM",
+                "430146"
+            ],
+            [
+                "/Params",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Params/CreationDate",
+                "STR",
+                "(D:20070225143032+08'00')"
+            ],
+            [
+                "/Params/ModDate",
+                "STR",
+                "(D:20051219111828+08'00')"
+            ],
+            [
+                "/Params/Size",
+                "NUM",
+                "430146"
+            ],
+            [
+                "/Params/CheckSum",
+                "STR",
+                "(ob$Qe\\nNd)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "220"
+            ]
+        ],
+        "out_edge_list": [
+            220
+        ]
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/Names",
+                "REF_LIST",
+                "2"
+            ],
+            [
+                "/Names",
+                "REF",
+                "240"
+            ],
+            [
+                "/Names",
+                "REF",
+                "80"
+            ]
+        ],
+        "out_edge_list": [
+            240,
+            80
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Names",
+                "REF_LIST",
+                "2"
+            ],
+            [
+                "/Names",
+                "REF",
+                "70"
+            ],
+            [
+                "/Names",
+                "REF",
+                "80"
+            ]
+        ],
+        "out_edge_list": [
+            70,
+            80
+        ]
+    },
+    "50": {
+        "insn_list": [
+            [
+                "/Names",
+                "MIX_LIST",
+                "2"
+            ],
+            [
+                "/Names",
+                "REF",
+                "60"
+            ]
+        ],
+        "out_edge_list": [
+            60
+        ]
+    },
+    "60": {
+        "insn_list": [
+            [
+                "/UF",
+                "STR",
+                "(temp)"
+            ],
+            [
+                "/F",
+                "STR",
+                "(temp)"
+            ],
+            [
+                "/EF",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/EF/F",
+                "REF",
+                "10"
+            ]
+        ],
+        "out_edge_list": [
+            10
+        ]
+    },
+    "70": {
+        "insn_list": [
+            [
+                "/SINGLESTR",
+                "STR",
+                "(file:///C|/masm32/BIN/pdf/1.txt)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/TS",
+                "STR",
+                "(D:20070225063211Z)"
+            ],
+            [
+                "/ID",
+                "REF",
+                "240"
+            ],
+            [
+                "/CT",
+                "STR",
+                "(text/plain)"
+            ],
+            [
+                "/O",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/O",
+                "REF",
+                "220"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/SPS"
+            ],
+            [
+                "/T",
+                "REF",
+                "90"
+            ],
+            [
+                "/TID",
+                "REF",
+                "100"
+            ],
+            [
+                "/SI",
+                "REF",
+                "110"
+            ]
+        ],
+        "out_edge_list": [
+            240,
+            220,
+            90,
+            100,
+            110
+        ]
+    },
+    "90": {
+        "insn_list": [
+            [
+                "/SINGLESTR",
+                "STR",
+                "(file:///C|/masm32/BIN/pdf/1.txt)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "100": {
+        "insn_list": [
+            [
+                "/SINGLESTR",
+                "STR",
+                "(r}\\)@_)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "110": {
+        "insn_list": [
+            [
+                "/TS",
+                "STR",
+                "(D:20070225063211Z)"
+            ],
+            [
+                "/AU",
+                "REF",
+                "70"
+            ]
+        ],
+        "out_edge_list": [
+            70
+        ]
+    },
+    "130": {
+        "insn_list": [
+            [
+                "/C",
+                "REF",
+                "140"
+            ],
+            [
+                "/V",
+                "NUM",
+                "1.25"
+            ]
+        ],
+        "out_edge_list": [
+            140
+        ]
+    },
+    "140": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "150"
+            ]
+        ],
+        "out_edge_list": [
+            150
+        ]
+    },
+    "150": {
+        "insn_list": [
+            [
+                "/URL",
+                "STR",
+                "(file:///C|/masm32/BIN/pdf/1.txt)"
+            ],
+            [
+                "/S",
+                "REF",
+                "160"
+            ]
+        ],
+        "out_edge_list": [
+            160
+        ]
+    },
+    "160": {
+        "insn_list": [
+            [
+                "/G",
+                "REF",
+                "170"
+            ]
+        ],
+        "out_edge_list": [
+            170
+        ]
+    },
+    "170": {
+        "insn_list": [
+            [
+                "/CB",
+                "NUM",
+                "0"
+            ],
+            [
+                "/M",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/S",
+                "NUM",
+                "0"
+            ],
+            [
+                "/PO",
+                "NUM",
+                "0"
+            ],
+            [
+                "/PS",
+                "NUM_LIST",
+                "2"
+            ],
+            [
+                "/AH",
+                "NUM",
+                "0"
+            ],
+            [
+                "/AL",
+                "NUM",
+                "0"
+            ],
+            [
+                "/SU",
+                "NUM",
+                "1"
+            ],
+            [
+                "/AS",
+                "NUM",
+                "1"
+            ],
+            [
+                "/AT",
+                "NUM",
+                "70"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "200": {
+        "insn_list": [
+            [
+                "/Names",
+                "REF",
+                "210"
+            ],
+            [
+                "/Outlines",
+                "REF",
+                "790"
+            ],
+            [
+                "/Metadata",
+                "REF",
+                "910"
+            ],
+            [
+                "/AcroForm",
+                "REF",
+                "800"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "20"
+            ],
+            [
+                "/SpiderInfo",
+                "REF",
+                "130"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ]
+        ],
+        "out_edge_list": [
+            210,
+            790,
+            910,
+            800,
+            20,
+            130
+        ]
+    },
+    "210": {
+        "insn_list": [
+            [
+                "/IDS",
+                "REF",
+                "30"
+            ],
+            [
+                "/JavaScript",
+                "REF",
+                "870"
+            ],
+            [
+                "/URLS",
+                "REF",
+                "40"
+            ],
+            [
+                "/EmbeddedFiles",
+                "REF",
+                "50"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            870,
+            40,
+            50
+        ]
+    },
+    "220": {
+        "insn_list": [
+            [
+                "/CropBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "20"
+            ],
+            [
+                "/ID",
+                "REF",
+                "240"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "720"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ]
+        ],
+        "out_edge_list": [
+            20,
+            240,
+            720
+        ]
+    },
+    "240": {
+        "insn_list": [
+            [
+                "/SINGLESTR",
+                "STR",
+                "(Ff/e~B-D[)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "720": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "8"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "730": {
+        "insn_list": [
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20080507162844+08'00')"
+            ],
+            [
+                "/ModDate",
+                "STR",
+                "(D:20090413171327+08'00')"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "740": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "3109"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "760": {
+        "insn_list": [
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ],
+            [
+                "/JS",
+                "STR",
+                "(\\n\\r\\n\\r\\n\\r)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "770": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1173"
+            ],
+            [
+                "/Filter",
+                "NAME_LIST",
+                "1"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "780": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "3109"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "790": {
+        "insn_list": [
+            [
+                "/Count",
+                "NUM",
+                "0"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Outlines"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "800": {
+        "insn_list": [
+            [
+                "/Fields",
+                "MIX_LIST",
+                "0"
+            ],
+            [
+                "/DA",
+                "STR",
+                "(/Helv 0 Tf 0 g )"
+            ],
+            [
+                "/DR",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DR/Font",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DR/Font/Helv",
+                "REF",
+                "820"
+            ],
+            [
+                "/DR/Font/ZaDb",
+                "REF",
+                "810"
+            ]
+        ],
+        "out_edge_list": [
+            820,
+            810
+        ]
+    },
+    "810": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/ZaDb"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/ZapfDingbats"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "820": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/Helv"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/Helvetica"
+            ],
+            [
+                "/Encoding",
+                "REF",
+                "830"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": [
+            830
+        ]
+    },
+    "830": {
+        "insn_list": [
+            [
+                "/Differences",
+                "MIX_LIST",
+                "140"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Encoding"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "840": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1173"
+            ],
+            [
+                "/Filter",
+                "NAME_LIST",
+                "1"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "850": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "3109"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "870": {
+        "insn_list": [
+            [
+                "/Names",
+                "MIX_LIST",
+                "2"
+            ],
+            [
+                "/Names",
+                "REF",
+                "890"
+            ]
+        ],
+        "out_edge_list": [
+            890
+        ]
+    },
+    "880": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "3109"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "890": {
+        "insn_list": [
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ],
+            [
+                "/JS",
+                "REF",
+                "930"
+            ]
+        ],
+        "out_edge_list": [
+            930
+        ]
+    },
+    "900": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1472"
+            ],
+            [
+                "/Filter",
+                "NAME_LIST",
+                "1"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "910": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "3103"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "920": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1460"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "930": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1461"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

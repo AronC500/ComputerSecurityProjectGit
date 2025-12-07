@@ -1,0 +1,540 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "30"
+            ]
+        ],
+        "out_edge_list": [
+            30
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/Producer",
+                "STR",
+                "(GPL Ghostscript 8.15)"
+            ],
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20090130130758)"
+            ],
+            [
+                "/ModDate",
+                "STR",
+                "(D:20090130130758)"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(BKWS DMCA Objection.txt - Notepad)"
+            ],
+            [
+                "/Creator",
+                "STR",
+                "(PScript5.dll Version 5.2.2)"
+            ],
+            [
+                "/Author",
+                "STR",
+                "(Kokuryu)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "40"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            40
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/ProcSet",
+                "NAME_LIST",
+                "2"
+            ],
+            [
+                "/Resources/ExtGState",
+                "REF",
+                "120"
+            ],
+            [
+                "/Resources/Font",
+                "REF",
+                "130"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            120,
+            130
+        ]
+    },
+    "50": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "60"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": [
+            60
+        ]
+    },
+    "60": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "2412"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "70": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/ExtGState"
+            ],
+            [
+                "/OPM",
+                "NUM",
+                "1"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/FontDescriptor"
+            ],
+            [
+                "/FontName",
+                "NAME",
+                "/YPTEZO+Courier"
+            ],
+            [
+                "/FontBBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Flags",
+                "NUM",
+                "5"
+            ],
+            [
+                "/Ascent",
+                "NUM",
+                "647"
+            ],
+            [
+                "/CapHeight",
+                "NUM",
+                "647"
+            ],
+            [
+                "/Descent",
+                "NUM",
+                "-186"
+            ],
+            [
+                "/ItalicAngle",
+                "NUM",
+                "0"
+            ],
+            [
+                "/StemV",
+                "NUM",
+                "88"
+            ],
+            [
+                "/AvgWidth",
+                "NUM",
+                "600"
+            ],
+            [
+                "/MaxWidth",
+                "NUM",
+                "600"
+            ],
+            [
+                "/MissingWidth",
+                "NUM",
+                "600"
+            ],
+            [
+                "/CharSet",
+                "STR",
+                "(/two/A/y/n/c/M/B/z/o/d/N/C/p/e/O/D/q/f/bracketleft/P/r/g/s/h/bracketright/t/i/S/u/colon/T/I/v/k/U/w/l/a/V/x/quotesingle/m/b/equal/W/parenleft/parenright/space/comma/quotedbl/period/numbersign/one/ampersand)"
+            ],
+            [
+                "/FontFile3",
+                "REF",
+                "140"
+            ]
+        ],
+        "out_edge_list": [
+            140
+        ]
+    },
+    "90": {
+        "insn_list": [
+            [
+                "/BaseFont",
+                "NAME",
+                "/YPTEZO+Courier"
+            ],
+            [
+                "/FontDescriptor",
+                "REF",
+                "80"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ],
+            [
+                "/FirstChar",
+                "NUM",
+                "32"
+            ],
+            [
+                "/LastChar",
+                "NUM",
+                "122"
+            ],
+            [
+                "/Widths",
+                "NUM_LIST",
+                "91"
+            ],
+            [
+                "/Encoding",
+                "NAME",
+                "/WinAnsiEncoding"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ]
+        ],
+        "out_edge_list": [
+            80
+        ]
+    },
+    "100": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/FontDescriptor"
+            ],
+            [
+                "/FontName",
+                "NAME",
+                "/ODNMDG+TTE20C2008t00"
+            ],
+            [
+                "/FontBBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Flags",
+                "NUM",
+                "4"
+            ],
+            [
+                "/Ascent",
+                "NUM",
+                "625"
+            ],
+            [
+                "/CapHeight",
+                "NUM",
+                "625"
+            ],
+            [
+                "/Descent",
+                "NUM",
+                "0"
+            ],
+            [
+                "/ItalicAngle",
+                "NUM",
+                "0"
+            ],
+            [
+                "/StemV",
+                "NUM",
+                "93"
+            ],
+            [
+                "/MissingWidth",
+                "NUM",
+                "750"
+            ],
+            [
+                "/FontFile2",
+                "REF",
+                "160"
+            ]
+        ],
+        "out_edge_list": [
+            160
+        ]
+    },
+    "110": {
+        "insn_list": [
+            [
+                "/BaseFont",
+                "NAME",
+                "/ODNMDG+TTE20C2008t00"
+            ],
+            [
+                "/FontDescriptor",
+                "REF",
+                "100"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ],
+            [
+                "/FirstChar",
+                "NUM",
+                "1"
+            ],
+            [
+                "/LastChar",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Widths",
+                "NUM_LIST",
+                "1"
+            ],
+            [
+                "/Encoding",
+                "REF",
+                "180"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/TrueType"
+            ]
+        ],
+        "out_edge_list": [
+            100,
+            180
+        ]
+    },
+    "120": {
+        "insn_list": [
+            [
+                "/R7",
+                "REF",
+                "70"
+            ]
+        ],
+        "out_edge_list": [
+            70
+        ]
+    },
+    "130": {
+        "insn_list": [
+            [
+                "/R9",
+                "REF",
+                "90"
+            ],
+            [
+                "/R11",
+                "REF",
+                "110"
+            ]
+        ],
+        "out_edge_list": [
+            90,
+            110
+        ]
+    },
+    "140": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1C"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "REF",
+                "150"
+            ]
+        ],
+        "out_edge_list": [
+            150
+        ]
+    },
+    "150": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "4414"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "160": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length1",
+                "NUM",
+                "10272"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "REF",
+                "170"
+            ]
+        ],
+        "out_edge_list": [
+            170
+        ]
+    },
+    "170": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "4396"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "180": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Encoding"
+            ],
+            [
+                "/BaseEncoding",
+                "NAME",
+                "/WinAnsiEncoding"
+            ],
+            [
+                "/Differences",
+                "MIX_LIST",
+                "2"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

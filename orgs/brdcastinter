@@ -1,0 +1,184 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "20"
+            ]
+        ],
+        "out_edge_list": [
+            20
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "170"
+            ]
+        ],
+        "out_edge_list": [
+            170
+        ]
+    },
+    "170": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "20"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/ProcSet",
+                "NAME_LIST",
+                "5"
+            ],
+            [
+                "/Resources/XObject",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/XObject/Ob18",
+                "REF",
+                "180"
+            ]
+        ],
+        "out_edge_list": [
+            20,
+            180
+        ]
+    },
+    "180": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/XObject"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Image"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/Ob18"
+            ],
+            [
+                "/Width",
+                "NUM",
+                "850"
+            ],
+            [
+                "/Height",
+                "NUM",
+                "1099"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "82569"
+            ],
+            [
+                "/BitsPerComponent",
+                "NUM",
+                "8"
+            ],
+            [
+                "/ColorSpace",
+                "NAME",
+                "/DeviceGray"
+            ],
+            [
+                "/Filter",
+                "NAME_LIST",
+                "1"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "190": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "45"
+            ],
+            [
+                "/Filter",
+                "NAME_LIST",
+                "1"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "200": {
+        "insn_list": [
+            [
+                "/Producer",
+                "STR",
+                "(Hewlett-Packard Intelligent Scanning Technology 3)"
+            ],
+            [
+                "/Author",
+                "STR",
+                "(CAT [ D24DXG11 ])"
+            ],
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20080630170255)"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

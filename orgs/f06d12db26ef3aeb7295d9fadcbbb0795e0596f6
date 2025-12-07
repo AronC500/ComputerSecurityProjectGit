@@ -1,0 +1,343 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "40"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ]
+        ],
+        "out_edge_list": [
+            40
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/Producer",
+                "STR",
+                "(Python PDF Library \\055 http\\072\\057\\057pybrary\\056net\\057pyPdf\\057)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "10"
+            ],
+            [
+                "/Names",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Names/JavaScript",
+                "REF",
+                "110"
+            ]
+        ],
+        "out_edge_list": [
+            10,
+            110
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Parent",
+                "REF",
+                "10"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "50"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/ExtGState",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/ExtGState/GS0",
+                "REF",
+                "60"
+            ]
+        ],
+        "out_edge_list": [
+            10,
+            50,
+            60
+        ]
+    },
+    "50": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "120"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "60": {
+        "insn_list": [
+            [
+                "/OPM",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/ExtGState"
+            ],
+            [
+                "/SM",
+                "NUM",
+                "0.02"
+            ],
+            [
+                "/OP",
+                "BOOL",
+                "false"
+            ],
+            [
+                "/SA",
+                "BOOL",
+                "false"
+            ],
+            [
+                "/op",
+                "BOOL",
+                "false"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "70": {
+        "insn_list": [
+            [
+                "/FirstChar",
+                "NUM",
+                "32"
+            ],
+            [
+                "/Widths",
+                "NUM_LIST",
+                "1"
+            ],
+            [
+                "/Encoding",
+                "NAME",
+                "/WinAnsiEncoding"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/TimesNewRomanPSMT"
+            ],
+            [
+                "/LastChar",
+                "NUM",
+                "32"
+            ],
+            [
+                "/FontDescriptor",
+                "REF",
+                "80"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/TrueType"
+            ]
+        ],
+        "out_edge_list": [
+            80
+        ]
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/FontBBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/StemV",
+                "NUM",
+                "82"
+            ],
+            [
+                "/Descent",
+                "NUM",
+                "-216"
+            ],
+            [
+                "/XHeight",
+                "NUM",
+                "-546"
+            ],
+            [
+                "/Flags",
+                "NUM",
+                "34"
+            ],
+            [
+                "/FontStretch",
+                "NAME",
+                "/Normal"
+            ],
+            [
+                "/Ascent",
+                "NUM",
+                "891"
+            ],
+            [
+                "/FontName",
+                "NAME",
+                "/TimesNewRomanPSMT"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/FontDescriptor"
+            ],
+            [
+                "/FontWeight",
+                "NUM",
+                "400"
+            ],
+            [
+                "/ItalicAngle",
+                "NUM",
+                "0"
+            ],
+            [
+                "/FontFamily",
+                "STR",
+                "(Times New Roman)"
+            ],
+            [
+                "/CapHeight",
+                "NUM",
+                "656"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "90": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "781"
+            ],
+            [
+                "/DL",
+                "NUM",
+                "781"
+            ],
+            [
+                "/Params",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Params/Size",
+                "NUM",
+                "781"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "100": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "8038"
+            ],
+            [
+                "/DL",
+                "NUM",
+                "8038"
+            ],
+            [
+                "/Params",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Params/Size",
+                "NUM",
+                "8038"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "110": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "NULL",
+                "<Blank>"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

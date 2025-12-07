@@ -1,0 +1,195 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/Outlines",
+                "REF",
+                "20"
+            ],
+            [
+                "/OpenAction",
+                "REF",
+                "30"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "40"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ]
+        ],
+        "out_edge_list": [
+            20,
+            30,
+            40
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/Count",
+                "NUM",
+                "0"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Outlines"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/JS",
+                "REF",
+                "80"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Action"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ]
+        ],
+        "out_edge_list": [
+            80
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "50"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ]
+        ],
+        "out_edge_list": [
+            50
+        ]
+    },
+    "50": {
+        "insn_list": [
+            [
+                "/Parent",
+                "REF",
+                "40"
+            ],
+            [
+                "/Annots",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Annots",
+                "REF",
+                "60"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/pdftk_PageNum",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ]
+        ],
+        "out_edge_list": [
+            40,
+            60
+        ]
+    },
+    "60": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/Text"
+            ],
+            [
+                "/Subj",
+                "REF",
+                "70"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/Comment"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Annot"
+            ],
+            [
+                "/Rect",
+                "NUM_LIST",
+                "4"
+            ]
+        ],
+        "out_edge_list": [
+            70
+        ]
+    },
+    "70": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "18996"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "80": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1583"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

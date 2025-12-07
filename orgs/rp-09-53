@@ -1,0 +1,1170 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/CropBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "260"
+            ],
+            [
+                "/StructParents",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "20"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/Font",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/Font/TT0",
+                "REF",
+                "700"
+            ]
+        ],
+        "out_edge_list": [
+            260,
+            20,
+            700
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1313"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/CropBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Annots",
+                "REF",
+                "40"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "260"
+            ],
+            [
+                "/StructParents",
+                "NUM",
+                "2"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "50"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/ColorSpace",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/ColorSpace/CS0",
+                "REF",
+                "70"
+            ]
+        ],
+        "out_edge_list": [
+            40,
+            260,
+            50,
+            70
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "90"
+            ]
+        ],
+        "out_edge_list": [
+            90
+        ]
+    },
+    "50": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "227"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "60": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "2598"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/N",
+                "NUM",
+                "3"
+            ],
+            [
+                "/Alternate",
+                "NAME",
+                "/DeviceRGB"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "70": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "MIX_LIST",
+                "2"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "60"
+            ]
+        ],
+        "out_edge_list": [
+            60
+        ]
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/URI",
+                "STR",
+                "(mailto:Tip.Program@irs.gov)"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/URI"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "90": {
+        "insn_list": [
+            [
+                "/Rect",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Link"
+            ],
+            [
+                "/BS",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/BS/S",
+                "NAME",
+                "/S"
+            ],
+            [
+                "/BS/W",
+                "NUM",
+                "0"
+            ],
+            [
+                "/BS/Type",
+                "NAME",
+                "/Border"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "100": {
+        "insn_list": [
+            [
+                "/First",
+                "REF",
+                "110"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "6"
+            ],
+            [
+                "/Last",
+                "REF",
+                "120"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Outlines"
+            ]
+        ],
+        "out_edge_list": [
+            110,
+            120
+        ]
+    },
+    "110": {
+        "insn_list": [
+            [
+                "/Parent",
+                "REF",
+                "100"
+            ],
+            [
+                "/A",
+                "REF",
+                "220"
+            ],
+            [
+                "/Next",
+                "REF",
+                "200"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(Part III)"
+            ]
+        ],
+        "out_edge_list": [
+            100,
+            220,
+            200
+        ]
+    },
+    "120": {
+        "insn_list": [
+            [
+                "/Parent",
+                "REF",
+                "100"
+            ],
+            [
+                "/A",
+                "REF",
+                "130"
+            ],
+            [
+                "/Prev",
+                "REF",
+                "140"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(SECTION 7. CONTACT INFORMATION)"
+            ]
+        ],
+        "out_edge_list": [
+            100,
+            130,
+            140
+        ]
+    },
+    "130": {
+        "insn_list": [
+            [
+                "/D",
+                "MIX_LIST",
+                "4"
+            ],
+            [
+                "/D",
+                "REF",
+                "10"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/GoTo"
+            ]
+        ],
+        "out_edge_list": [
+            10
+        ]
+    },
+    "140": {
+        "insn_list": [
+            [
+                "/Parent",
+                "REF",
+                "100"
+            ],
+            [
+                "/A",
+                "REF",
+                "150"
+            ],
+            [
+                "/Next",
+                "REF",
+                "120"
+            ],
+            [
+                "/Prev",
+                "REF",
+                "160"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(SECTION 5. EFFECTIVE DATE)"
+            ]
+        ],
+        "out_edge_list": [
+            100,
+            150,
+            120,
+            160
+        ]
+    },
+    "150": {
+        "insn_list": [
+            [
+                "/D",
+                "MIX_LIST",
+                "4"
+            ],
+            [
+                "/D",
+                "REF",
+                "10"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/GoTo"
+            ]
+        ],
+        "out_edge_list": [
+            10
+        ]
+    },
+    "160": {
+        "insn_list": [
+            [
+                "/Parent",
+                "REF",
+                "100"
+            ],
+            [
+                "/A",
+                "REF",
+                "170"
+            ],
+            [
+                "/Next",
+                "REF",
+                "140"
+            ],
+            [
+                "/Prev",
+                "REF",
+                "180"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(SECTION 4. EFFECT ON OTHER DOCUMENTS)"
+            ]
+        ],
+        "out_edge_list": [
+            100,
+            170,
+            140,
+            180
+        ]
+    },
+    "170": {
+        "insn_list": [
+            [
+                "/D",
+                "MIX_LIST",
+                "4"
+            ],
+            [
+                "/D",
+                "REF",
+                "10"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/GoTo"
+            ]
+        ],
+        "out_edge_list": [
+            10
+        ]
+    },
+    "180": {
+        "insn_list": [
+            [
+                "/Parent",
+                "REF",
+                "100"
+            ],
+            [
+                "/A",
+                "REF",
+                "190"
+            ],
+            [
+                "/Next",
+                "REF",
+                "160"
+            ],
+            [
+                "/Prev",
+                "REF",
+                "200"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(SECTION 2. BACKGROUND)"
+            ]
+        ],
+        "out_edge_list": [
+            100,
+            190,
+            160,
+            200
+        ]
+    },
+    "190": {
+        "insn_list": [
+            [
+                "/D",
+                "MIX_LIST",
+                "4"
+            ],
+            [
+                "/D",
+                "REF",
+                "690"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/GoTo"
+            ]
+        ],
+        "out_edge_list": [
+            690
+        ]
+    },
+    "200": {
+        "insn_list": [
+            [
+                "/Parent",
+                "REF",
+                "100"
+            ],
+            [
+                "/A",
+                "REF",
+                "210"
+            ],
+            [
+                "/Next",
+                "REF",
+                "180"
+            ],
+            [
+                "/Prev",
+                "REF",
+                "110"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(SECTION 1. PURPOSE)"
+            ]
+        ],
+        "out_edge_list": [
+            100,
+            210,
+            180,
+            110
+        ]
+    },
+    "210": {
+        "insn_list": [
+            [
+                "/D",
+                "MIX_LIST",
+                "4"
+            ],
+            [
+                "/D",
+                "REF",
+                "690"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/GoTo"
+            ]
+        ],
+        "out_edge_list": [
+            690
+        ]
+    },
+    "220": {
+        "insn_list": [
+            [
+                "/D",
+                "MIX_LIST",
+                "4"
+            ],
+            [
+                "/D",
+                "REF",
+                "690"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/GoTo"
+            ]
+        ],
+        "out_edge_list": [
+            690
+        ]
+    },
+    "230": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/First",
+                "NUM",
+                "294"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "830"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/N",
+                "NUM",
+                "38"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/ObjStm"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "240": {
+        "insn_list": [
+            [
+                "/Nums",
+                "MIX_LIST",
+                "2"
+            ],
+            [
+                "/Nums",
+                "REF",
+                "250"
+            ]
+        ],
+        "out_edge_list": [
+            250
+        ]
+    },
+    "250": {
+        "insn_list": [
+            [
+                "/S",
+                "NAME",
+                "/D"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "260": {
+        "insn_list": [
+            [
+                "/Count",
+                "NUM",
+                "3"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "3"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "690"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "10"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "30"
+            ]
+        ],
+        "out_edge_list": [
+            690,
+            10,
+            30
+        ]
+    },
+    "270": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "3949"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "280": {
+        "insn_list": [
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20091201094249-05'00')"
+            ],
+            [
+                "/Author",
+                "STR",
+                "()"
+            ],
+            [
+                "/Creator",
+                "STR",
+                "(Acrobat PDFMaker 8.1 for Word)"
+            ],
+            [
+                "/Producer",
+                "STR",
+                "(Acrobat Distiller 8.1.0 \\(Windows\\))"
+            ],
+            [
+                "/ModDate",
+                "STR",
+                "(D:20091201094250-05'00')"
+            ],
+            [
+                "/SourceModified",
+                "STR",
+                "(D:20091201144244)"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(Part III)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "670": {
+        "insn_list": [
+            [
+                "/Linearized",
+                "NUM",
+                "1"
+            ],
+            [
+                "/L",
+                "NUM",
+                "16385"
+            ],
+            [
+                "/O",
+                "NUM",
+                "69"
+            ],
+            [
+                "/E",
+                "NUM",
+                "3479"
+            ],
+            [
+                "/N",
+                "NUM",
+                "3"
+            ],
+            [
+                "/T",
+                "NUM",
+                "14998"
+            ],
+            [
+                "/H",
+                "NUM_LIST",
+                "2"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "680": {
+        "insn_list": [
+            [
+                "/MarkInfo",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/MarkInfo/LetterspaceFlags",
+                "NUM",
+                "0"
+            ],
+            [
+                "/MarkInfo/Marked",
+                "BOOL",
+                "true"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "690": {
+        "insn_list": [
+            [
+                "/CropBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "260"
+            ],
+            [
+                "/StructParents",
+                "NUM",
+                "0"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "730"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/Font",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/Font/TT0",
+                "REF",
+                "700"
+            ]
+        ],
+        "out_edge_list": [
+            260,
+            730,
+            700
+        ]
+    },
+    "700": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/TrueType"
+            ],
+            [
+                "/FontDescriptor",
+                "REF",
+                "710"
+            ],
+            [
+                "/LastChar",
+                "NUM",
+                "121"
+            ],
+            [
+                "/Widths",
+                "NUM_LIST",
+                "90"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/Arial"
+            ],
+            [
+                "/FirstChar",
+                "NUM",
+                "32"
+            ],
+            [
+                "/Encoding",
+                "NAME",
+                "/WinAnsiEncoding"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": [
+            710
+        ]
+    },
+    "710": {
+        "insn_list": [
+            [
+                "/StemV",
+                "NUM",
+                "94"
+            ],
+            [
+                "/FontName",
+                "NAME",
+                "/Arial"
+            ],
+            [
+                "/FontStretch",
+                "NAME",
+                "/Normal"
+            ],
+            [
+                "/FontWeight",
+                "NUM",
+                "400"
+            ],
+            [
+                "/Flags",
+                "NUM",
+                "32"
+            ],
+            [
+                "/Descent",
+                "NUM",
+                "-211"
+            ],
+            [
+                "/FontBBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Ascent",
+                "NUM",
+                "905"
+            ],
+            [
+                "/FontFamily",
+                "STR",
+                "(Arial)"
+            ],
+            [
+                "/CapHeight",
+                "NUM",
+                "718"
+            ],
+            [
+                "/XHeight",
+                "NUM",
+                "515"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/FontDescriptor"
+            ],
+            [
+                "/ItalicAngle",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "720": {
+        "insn_list": [
+            [
+                "/OPM",
+                "NUM",
+                "1"
+            ],
+            [
+                "/OP",
+                "BOOL",
+                "false"
+            ],
+            [
+                "/op",
+                "BOOL",
+                "false"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/ExtGState"
+            ],
+            [
+                "/SA",
+                "BOOL",
+                "false"
+            ],
+            [
+                "/SM",
+                "NUM",
+                "0.02"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "730": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1278"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "740": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "20"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/W",
+                "NUM_LIST",
+                "3"
+            ],
+            [
+                "/Index",
+                "NUM_LIST",
+                "2"
+            ],
+            [
+                "/DecodeParms",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms/Columns",
+                "NUM",
+                "3"
+            ],
+            [
+                "/DecodeParms/Predictor",
+                "NUM",
+                "12"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "750": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "132"
+            ],
+            [
+                "/C",
+                "NUM",
+                "128"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/I",
+                "NUM",
+                "151"
+            ],
+            [
+                "/L",
+                "NUM",
+                "112"
+            ],
+            [
+                "/O",
+                "NUM",
+                "96"
+            ],
+            [
+                "/S",
+                "NUM",
+                "60"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}
