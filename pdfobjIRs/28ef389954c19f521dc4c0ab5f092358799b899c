@@ -1,0 +1,36 @@
+10, /Names, REF, 20
+10, /Pages, REF, 30
+10, /Type, NAME, /Catalog
+20, /JavaScript, REF, 70
+30, /Kids, REF_LIST, 1
+30, /Kids, REF, 40
+30, /Count, NUM, 1
+30, /Type, NAME, /Pages
+40, /Parent, REF, 30
+40, /Resources, DICT, <Blank>
+40, /Resources/XObject, DICT, <Blank>
+40, /Resources/XObject/Im7, REF, 50
+50, <Blank>, STREAM, <Blank>
+50, /Width, NUM, 100
+50, /BitsPerComponent, NUM, 1
+50, /Name, NAME, /Im7
+50, /Height, NUM, 62
+50, /Subtype, NAME, /Image
+50, /Length, NUM, 806
+50, /Type, NAME, /XObject
+50, /ColorSpace, MIX_LIST, 4
+60, <Blank>, STREAM, <Blank>
+60, /Length, NUM, 39
+70, /Names, REF, 80
+80, /SINGLELIST, MIX_LIST, 2
+80, /SINGLELIST, REF, 90
+90, /JS, REF, 100
+90, /Type, NAME, /Action
+90, /S, NAME, /JavaScript
+100, <Blank>, STREAM, <Blank>
+100, /Length, NUM, 16274
+110, /Creator, STR, (fackoPDF 6.09)
+110, /Producer, STR, (BCL macroPDF 7.06)
+110, /ModDate, STR, (D:20093108521535+02'00')
+110, /CreationDate, STR, (D:20093108431528+03'00')
+

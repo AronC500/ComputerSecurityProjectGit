@@ -1,0 +1,16 @@
+40, <Blank>, STREAM, <Blank>
+40, /Length, NUM, 0000
+50, /Parent, REF, 70
+50, /Resources, REF, 50
+50, /Type, NAME, /Page
+50, /AA, DICT, <Blank>
+50, /AA/O, REF, 80
+70, /Count, NUM, 1
+70, /Type, NAME, /Pages
+70, /Kids, REF_LIST, 1
+70, /Kids, REF, 50
+80, /S, NAME, /JavaScript
+80, /JS, REF, 40
+100, /Pages, REF, 70
+100, /StructTreeRoot, REF, 80
+

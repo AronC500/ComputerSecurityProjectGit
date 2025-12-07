@@ -1,0 +1,15 @@
+10, /Pages, REF, 20
+10, /OpenAction, DICT, <Blank>
+10, /OpenAction/JS, REF, 30
+10, /OpenAction/S, NAME, /JavaScript
+20, /Kids, REF_LIST, 1
+20, /Kids, REF, 40
+20, /Count, NUM, 1
+20, /Type, NAME, /Pages
+30, <Blank>, STREAM, <Blank>
+30, /Length, NUM, 5082
+40, /Parent, REF, 20
+40, /MediaBox, NUM_LIST, 4
+40, /pdftk_PageNum, NUM, 1
+40, /Type, NAME, /Page
+

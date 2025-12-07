@@ -1,0 +1,36 @@
+10, /OpenAction, DICT, <Blank>
+10, /OpenAction/JS, STR, (this.BXcfTYewQ\(\))
+10, /OpenAction/S, NAME, /JavaScript
+20, /SINGLELIST, MIX_LIST, 0
+30, /Count, NUM, 0
+30, /Type, NAME, /Outlines
+40, /Resources, REF, 80
+40, /Kids, REF_LIST, 1
+40, /Kids, REF, 90
+40, /Count, NUM, 1
+40, /Type, NAME, /Pages
+50, /Fields, MIX_LIST, 0
+60, <Blank>, NULL, <Blank>
+70, /JavaScript, REF, 100
+80, /ProcSet, NAME_LIST, 5
+90, /Rotate, NUM, 0
+90, /Parent, REF, 40
+90, /Resources, REF, 80
+90, /TrimBox, NUM_LIST, 4
+90, /MediaBox, NUM_LIST, 4
+90, /pdftk_PageNum, NUM, 1
+90, /Contents, REF, 110
+90, /Type, NAME, /Page
+100, /Names, MIX_LIST, 2
+100, /Names, REF, 120
+110, <Blank>, STREAM, <Blank>
+110, /Length, NUM, 31
+120, /JS, REF, 130
+120, /S, NAME, /JavaScript
+130, <Blank>, STREAM, <Blank>
+130, /Length, NUM, 16309
+140, /Creator, STR, (Scribus 1.3.3.12)
+140, /Title, STR, (Scribus PDF Library 1.3.3.12)
+140, /Author, STR, (2008312053854)
+140, /CreationDate, STR, (2008312053854)
+

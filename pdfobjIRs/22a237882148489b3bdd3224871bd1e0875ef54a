@@ -1,0 +1,132 @@
+10, /Count, NUM, 0
+10, /Type, NAME, /Outlines
+20, /Differences, MIX_LIST, 140
+20, /Type, NAME, /Encoding
+30, /Subtype, NAME, /Type1
+30, /Name, NAME, /Helv
+30, /BaseFont, NAME, /Helvetica
+30, /Encoding, REF, 20
+30, /Type, NAME, /Font
+40, /Subtype, NAME, /Type1
+40, /Name, NAME, /ZaDb
+40, /BaseFont, NAME, /ZapfDingbats
+40, /Type, NAME, /Font
+50, <Blank>, STREAM, <Blank>
+50, /Subtype, NAME, /image#2Fjpeg
+50, /Length, NUM, 416221
+50, /Filter, NAME, /FlateDecode
+50, /DL, NUM, 430146
+50, /Params, DICT, <Blank>
+50, /Params/CreationDate, STR, (D:20091216215036+08'00')
+50, /Params/ModDate, STR, (D:20051219111828+08'00')
+50, /Params/Size, NUM, 430146
+50, /Params/CheckSum, STR, (ob$Qe\nNd)
+60, /Count, NUM, 1
+60, /Type, NAME, /Pages
+60, /Kids, REF, 70
+70, /SINGLELIST, REF_LIST, 1
+70, /SINGLELIST, REF, 200
+80, /Names, MIX_LIST, 2
+80, /Names, REF, 90
+90, /UF, STR, (temp.jpg)
+90, /F, STR, (temp.jpg)
+90, /EF, DICT, <Blank>
+90, /EF/F, REF, 50
+100, <Blank>, STREAM, <Blank>
+100, /Subtype, NAME, /XML
+100, /Length, NUM, 3422
+100, /Type, NAME, /Metadata
+110, /CreationDate, STR, (D:20091224143943Z)
+110, /Author, STR, (Stephan Huck)
+110, /Producer, STR, (PDF Editor   - Foxit Software)
+110, /ModDate, STR, (D:20091224150252+08'00')
+110, /CreationDate, STR, (D:20091224143943Z)
+110, /Author, STR, (Stephan Huck)
+110, /Producer, STR, (PDF Editor   - Foxit Software)
+110, /ModDate, STR, (D:20091224150408+08'00')
+110, /CreationDate, STR, (D:20091224143943Z)
+110, /Author, STR, (Stephan Huck)
+110, /Producer, STR, (PDF Editor   - Foxit Software)
+110, /ModDate, STR, (D:20091224154945+08'00')
+120, /Linearized, NUM, 1
+120, /L, NUM, 426608
+120, /O, NUM, 20
+120, /E, NUM, 4618
+120, /N, NUM, 1
+120, /T, NUM, 426321
+120, /H, NUM_LIST, 2
+130, /PageMode, NAME, /UseAttachments
+130, /Names, REF, 150
+130, /Outlines, REF, 10
+130, /Metadata, REF, 100
+130, /AcroForm, REF, 140
+130, /Pages, REF, 60
+130, /Type, NAME, /Catalog
+130, /PageMode, NAME, /UseNone
+130, /Names, REF, 150
+130, /Outlines, REF, 10
+130, /Metadata, REF, 230
+130, /AcroForm, REF, 140
+130, /Pages, REF, 60
+130, /Type, NAME, /Catalog
+130, /PageMode, NAME, /UseNone
+130, /Names, REF, 150
+130, /Outlines, REF, 10
+130, /Metadata, REF, 250
+130, /AcroForm, REF, 140
+130, /Pages, REF, 60
+130, /Type, NAME, /Catalog
+140, /Fields, MIX_LIST, 0
+140, /DA, STR, (/Helv 0 Tf 0 g )
+140, /DR, DICT, <Blank>
+140, /DR/Font, DICT, <Blank>
+140, /DR/Font/Helv, REF, 30
+140, /DR/Font/ZaDb, REF, 40
+150, /JavaScript, REF, 160
+150, /EmbeddedFiles, REF, 80
+160, /Names, MIX_LIST, 4
+160, /Names, REF, 170
+160, /Names, REF, 180
+160, /Names, MIX_LIST, 2
+160, /Names, REF, 180
+170, /S, NAME, /JavaScript
+170, /JS, STR, (var v = app.viewerVersion;\nif \(v < 7\)\n{\n	var n = 0;\n	if \(this.dataObjects != null\)\n		n = this.dataObjects.length;\n	if \(v \ >= 5 && v < 6 && n > 0 && \(app.viewerVariation == "Full" || app.viewerVariation == "Fill-In"\)\)\n	{\n		if \(this.external\)\n			a\ pp.alert\("g,ehcST+eNDN0gwDNSUQ O[X c	geO[XehcRog,q6TW\( Acrobat N-bS_Rog,^v	b eN > ehc\\^`' > ]LQevepcn[a 0", 3, 0\);\n		else\n			app.alert\("g,ehcST+eN\ DN0	b eN > ehc\\^`' > ]LQevepcn[a gegwDN0", 3, 0\);\n	}\n	else if \(v >= 6 && v < 7\)\n	{\n		if \(n == 0\)\n		{\n			var np = this.numPages;\n\ 			syncAnnotScan\(\);\n			for \(var p = 0; p < np && n == 0; ++p\)\n			{\n				var annots = this.getAnnots\(p\);\n				if \(annots != n\ ull\)\n				{\n					for \(var i = 0; i < annots.length; ++i\)\n					{\n						if \(annots[i].type == "FileAttachment"\)\n						{\n					\ 		n = 1;\n							break;\n						}\n					}\n				}\n			}\n		}\n		if \(n > 0\)\n		{\n			if \(this.external\)\n				app.alert\("g,ehcST+eNDN0gw\ DNSUQehczSWvnRgavvrN	_bq6T	b eNDN 0", 3, 0\);\n			else\n				app.alert\("g,ehcST+eNDN0	b ehc > eNDN SUgegwDN0", 3, 0\);\n		}\n	}\n}\n)
+180, /S, NAME, /JavaScript
+180, /JS, REF, 190
+180, /S, NAME, /JavaScript
+180, /JS, REF, 240
+190, <Blank>, STREAM, <Blank>
+190, /Length, NUM, 1086
+190, /Filter, NAME_LIST, 1
+200, /CropBox, NUM_LIST, 4
+200, /Parent, REF, 60
+200, /Rotate, NUM, 0
+200, /MediaBox, NUM_LIST, 4
+200, /Resources, DICT, <Blank>
+200, /Resources/Font, DICT, <Blank>
+200, /Resources/Font/FXF1, REF, 210
+200, /Type, NAME, /Page
+210, /Subtype, NAME, /Type1
+210, /BaseFont, NAME, /Helvetica
+210, /Encoding, NAME, /WinAnsiEncoding
+210, /Type, NAME, /Font
+220, <Blank>, STREAM, <Blank>
+220, /Length, NUM, 103
+220, /B, NUM, 112
+220, /Filter, NAME, /FlateDecode
+220, /I, NUM, 137
+220, /O, NUM, 74
+220, /S, NUM, 38
+220, /V, NUM, 90
+230, <Blank>, STREAM, <Blank>
+230, /Subtype, NAME, /XML
+230, /Length, NUM, 3422
+230, /Type, NAME, /Metadata
+240, <Blank>, STREAM, <Blank>
+240, /Length, NUM, 1086
+240, /Filter, NAME_LIST, 1
+250, <Blank>, STREAM, <Blank>
+250, /Subtype, NAME, /XML
+250, /Length, NUM, 3422
+250, /Type, NAME, /Metadata
+

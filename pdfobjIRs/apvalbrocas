@@ -1,0 +1,30 @@
+10, /Type, NAME, /Catalog
+10, /Pages, REF, 20
+20, /Type, NAME, /Pages
+20, /Count, NUM, 1
+20, /Kids, REF_LIST, 1
+20, /Kids, REF, 170
+170, /Type, NAME, /Page
+170, /Parent, REF, 20
+170, /MediaBox, NUM_LIST, 4
+170, /Resources, DICT, <Blank>
+170, /Resources/ProcSet, NAME_LIST, 5
+170, /Resources/XObject, DICT, <Blank>
+170, /Resources/XObject/Ob18, REF, 180
+180, <Blank>, STREAM, <Blank>
+180, /Type, NAME, /XObject
+180, /Subtype, NAME, /Image
+180, /Name, NAME, /Ob18
+180, /Width, NUM, 850
+180, /Height, NUM, 1099
+180, /Length, NUM, 80537
+180, /BitsPerComponent, NUM, 8
+180, /ColorSpace, NAME, /DeviceGray
+180, /Filter, NAME_LIST, 1
+190, <Blank>, STREAM, <Blank>
+190, /Length, NUM, 45
+190, /Filter, NAME_LIST, 1
+200, /Producer, STR, (Hewlett-Packard Intelligent Scanning Technology 3)
+200, /Author, STR, (CAT [ D24DXG11 ])
+200, /CreationDate, STR, (D:20070427142427)
+
