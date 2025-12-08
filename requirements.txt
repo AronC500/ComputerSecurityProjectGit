@@ -1,0 +1,36 @@
+# Core dependencies for PDF Malware Detection ML Pipeline
+# Minimal set required for embedding generation and GIN training
+
+# PyTorch and CUDA support (for RTX 3060 Ti)
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
+
+# PyTorch Geometric (for graph neural networks)
+torch-geometric>=2.5.0
+
+# DGL (Deep Graph Library - for GIN model)
+dgl>=2.1.0
+
+# Transformers (for BERT model)
+transformers>=4.30.0
+tokenizers>=0.15.0
+
+# Scientific computing
+numpy>=1.26.0
+scipy>=1.12.0
+pandas>=2.2.0
+
+# Machine learning utilities
+scikit-learn>=1.5.0
+
+# Progress bars
+tqdm>=4.66.0
+
+# Visualization
+matplotlib>=3.9.0
+seaborn>=0.13.0
+
+# Others
+huggingface-hub>=0.20.0
+safetensors>=0.4.0

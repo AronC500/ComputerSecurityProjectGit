@@ -1,0 +1,553 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "93"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/EmbeddedFile"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "20": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/EmbeddedFile"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "76"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/XObject",
+                "DICT",
+                "<Blank>"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "190"
+            ],
+            [
+                "/T",
+                "STR",
+                "(dig[0])"
+            ]
+        ],
+        "out_edge_list": [
+            190
+        ]
+    },
+    "50": {
+        "insn_list": [
+            [
+                "/Subject",
+                "STR",
+                "(ask foh)"
+            ],
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20101130185929)"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(umm its)"
+            ],
+            [
+                "/Author",
+                "STR",
+                "(oxo haw)"
+            ],
+            [
+                "/Creator",
+                "STR",
+                "(cod hop)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "60": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/EmbeddedFile"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "7207"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "70": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/EmbeddedFile"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "60"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/AcroForm",
+                "REF",
+                "110"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "90"
+            ],
+            [
+                "/Lang",
+                "STR",
+                "(en-us)"
+            ]
+        ],
+        "out_edge_list": [
+            110,
+            90
+        ]
+    },
+    "90": {
+        "insn_list": [
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "130"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "30"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "120"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ]
+        ],
+        "out_edge_list": [
+            130,
+            30,
+            120
+        ]
+    },
+    "100": {
+        "insn_list": [
+            [
+                "/BaseFont",
+                "NAME",
+                "/Times-Roman"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ],
+            [
+                "/Encoding",
+                "NAME",
+                "/WinAnsiEncoding"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/F1"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "110": {
+        "insn_list": [
+            [
+                "/XFA",
+                "MIX_LIST",
+                "16"
+            ],
+            [
+                "/XFA",
+                "REF",
+                "180"
+            ],
+            [
+                "/XFA",
+                "REF",
+                "170"
+            ],
+            [
+                "/XFA",
+                "REF",
+                "60"
+            ],
+            [
+                "/XFA",
+                "REF",
+                "140"
+            ],
+            [
+                "/XFA",
+                "REF",
+                "10"
+            ],
+            [
+                "/XFA",
+                "REF",
+                "20"
+            ],
+            [
+                "/XFA",
+                "REF",
+                "70"
+            ],
+            [
+                "/XFA",
+                "REF",
+                "160"
+            ],
+            [
+                "/Fields",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Fields",
+                "REF",
+                "40"
+            ],
+            [
+                "/DA",
+                "STR",
+                "(/Helv 0 Tf 0 g )"
+            ]
+        ],
+        "out_edge_list": [
+            180,
+            170,
+            60,
+            140,
+            10,
+            20,
+            70,
+            160,
+            40
+        ]
+    },
+    "120": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "2342"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "130": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "90"
+            ]
+        ],
+        "out_edge_list": [
+            90
+        ]
+    },
+    "140": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "150"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/EmbeddedFile"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "150": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Annot"
+            ],
+            [
+                "/DA",
+                "STR",
+                "(/CourierStd 10 Tf 0 g)"
+            ],
+            [
+                "/Ff",
+                "NUM",
+                "65536"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "190"
+            ],
+            [
+                "/T",
+                "STR",
+                "(noh[0])"
+            ],
+            [
+                "/MK",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/MK/TP",
+                "NUM",
+                "1"
+            ]
+        ],
+        "out_edge_list": [
+            190
+        ]
+    },
+    "160": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/EmbeddedFile"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "16"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "170": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/EmbeddedFile"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "149"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "180": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/EmbeddedFile"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "86"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "190": {
+        "insn_list": [
+            [
+                "/T",
+                "STR",
+                "(yup[0])"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "40"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "150"
+            ]
+        ],
+        "out_edge_list": [
+            40,
+            150
+        ]
+    }
+}

@@ -1,0 +1,821 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/Metadata",
+                "REF",
+                "20"
+            ],
+            [
+                "/Names",
+                "REF",
+                "50"
+            ],
+            [
+                "/Outlines",
+                "REF",
+                "60"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "30"
+            ],
+            [
+                "/SpiderInfo",
+                "REF",
+                "70"
+            ],
+            [
+                "/StructTreeRoot",
+                "REF",
+                "80"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ]
+        ],
+        "out_edge_list": [
+            20,
+            50,
+            60,
+            30,
+            70,
+            80
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "3501"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "120"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ]
+        ],
+        "out_edge_list": [
+            120
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20120206180500-05'00')"
+            ],
+            [
+                "/ModDate",
+                "STR",
+                "(D:20120206180500-05'00')"
+            ],
+            [
+                "/Producer",
+                "STR",
+                "(Acrobat Web Capture 9.0)"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(\\\\\\\\lcdat4\\\\copyright\\\\GCFILES\\\\1201 2012\\\\Attachments\\\\Convert\\\\[Name] = Ben Frede.txt)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "50": {
+        "insn_list": [
+            [
+                "/IDS",
+                "REF",
+                "90"
+            ],
+            [
+                "/URLS",
+                "REF",
+                "100"
+            ]
+        ],
+        "out_edge_list": [
+            90,
+            100
+        ]
+    },
+    "60": {
+        "insn_list": [
+            [
+                "/Count",
+                "NUM",
+                "2"
+            ],
+            [
+                "/First",
+                "REF",
+                "110"
+            ],
+            [
+                "/Last",
+                "REF",
+                "110"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Outlines"
+            ]
+        ],
+        "out_edge_list": [
+            110,
+            110
+        ]
+    },
+    "70": {
+        "insn_list": [
+            [
+                "/V",
+                "NUM",
+                "1.25"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/ClassMap",
+                "REF",
+                "130"
+            ],
+            [
+                "/K",
+                "REF",
+                "140"
+            ],
+            [
+                "/ParentTree",
+                "REF",
+                "150"
+            ],
+            [
+                "/ParentTreeNextKey",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/StructTreeRoot"
+            ]
+        ],
+        "out_edge_list": [
+            130,
+            140,
+            150
+        ]
+    },
+    "90": {
+        "insn_list": [
+            [
+                "/Names",
+                "REF_LIST",
+                "2"
+            ],
+            [
+                "/Names",
+                "REF",
+                "200"
+            ],
+            [
+                "/Names",
+                "REF",
+                "280"
+            ]
+        ],
+        "out_edge_list": [
+            200,
+            280
+        ]
+    },
+    "100": {
+        "insn_list": [
+            [
+                "/Names",
+                "REF_LIST",
+                "2"
+            ],
+            [
+                "/Names",
+                "REF",
+                "290"
+            ],
+            [
+                "/Names",
+                "REF",
+                "280"
+            ]
+        ],
+        "out_edge_list": [
+            290,
+            280
+        ]
+    },
+    "110": {
+        "insn_list": [
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/First",
+                "REF",
+                "270"
+            ],
+            [
+                "/Last",
+                "REF",
+                "270"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "60"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(Local Disk)"
+            ]
+        ],
+        "out_edge_list": [
+            270,
+            270,
+            60
+        ]
+    },
+    "120": {
+        "insn_list": [
+            [
+                "/Contents",
+                "REF",
+                "180"
+            ],
+            [
+                "/Group",
+                "REF",
+                "190"
+            ],
+            [
+                "/ID",
+                "REF",
+                "200"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/PZ",
+                "NUM",
+                "1.0"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/ColorSpace",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/ColorSpace/CS0",
+                "REF",
+                "210"
+            ]
+        ],
+        "out_edge_list": [
+            180,
+            190,
+            200,
+            30,
+            210
+        ]
+    },
+    "130": {
+        "insn_list": [
+            [
+                "/SpdrArt",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/SpdrArt/O",
+                "NAME",
+                "/WebCapture"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "140": {
+        "insn_list": [
+            [
+                "/K",
+                "REF",
+                "160"
+            ],
+            [
+                "/P",
+                "REF",
+                "80"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/Document"
+            ]
+        ],
+        "out_edge_list": [
+            160,
+            80
+        ]
+    },
+    "150": {
+        "insn_list": [
+            [
+                "/Nums",
+                "MIX_LIST",
+                "2"
+            ],
+            [
+                "/Nums",
+                "REF",
+                "170"
+            ]
+        ],
+        "out_edge_list": [
+            170
+        ]
+    },
+    "160": {
+        "insn_list": [
+            [
+                "/C",
+                "NAME",
+                "/SpdrArt"
+            ],
+            [
+                "/K",
+                "NUM_LIST",
+                "2"
+            ],
+            [
+                "/P",
+                "REF",
+                "140"
+            ],
+            [
+                "/Pg",
+                "REF",
+                "120"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/Article"
+            ]
+        ],
+        "out_edge_list": [
+            140,
+            120
+        ]
+    },
+    "170": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "REF_LIST",
+                "2"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "160"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "160"
+            ]
+        ],
+        "out_edge_list": [
+            160,
+            160
+        ]
+    },
+    "180": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "3220"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "190": {
+        "insn_list": [
+            [
+                "/CS",
+                "REF",
+                "230"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/Transparency"
+            ]
+        ],
+        "out_edge_list": [
+            230
+        ]
+    },
+    "200": {
+        "insn_list": [
+            [
+                "/SINGLESTR",
+                "STR",
+                "(i\tVvrM[SE)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "210": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "MIX_LIST",
+                "2"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "250"
+            ]
+        ],
+        "out_edge_list": [
+            250
+        ]
+    },
+    "220": {
+        "insn_list": [
+            [
+                "/BaseFont",
+                "NAME",
+                "/TimesNewRomanPSMT"
+            ],
+            [
+                "/Encoding",
+                "NAME",
+                "/WinAnsiEncoding"
+            ],
+            [
+                "/FirstChar",
+                "NUM",
+                "0"
+            ],
+            [
+                "/FontDescriptor",
+                "REF",
+                "240"
+            ],
+            [
+                "/LastChar",
+                "NUM",
+                "255"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/TrueType"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ],
+            [
+                "/Widths",
+                "NUM_LIST",
+                "256"
+            ]
+        ],
+        "out_edge_list": [
+            240
+        ]
+    },
+    "230": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "MIX_LIST",
+                "2"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "260"
+            ]
+        ],
+        "out_edge_list": [
+            260
+        ]
+    },
+    "240": {
+        "insn_list": [
+            [
+                "/Ascent",
+                "NUM",
+                "1007"
+            ],
+            [
+                "/CapHeight",
+                "NUM",
+                "663"
+            ],
+            [
+                "/Descent",
+                "NUM",
+                "-307"
+            ],
+            [
+                "/Flags",
+                "NUM",
+                "34"
+            ],
+            [
+                "/FontBBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/FontFamily",
+                "STR",
+                "(Times New Roman)"
+            ],
+            [
+                "/FontName",
+                "NAME",
+                "/TimesNewRoman"
+            ],
+            [
+                "/FontStretch",
+                "NAME",
+                "/Normal"
+            ],
+            [
+                "/FontWeight",
+                "NUM",
+                "400"
+            ],
+            [
+                "/ItalicAngle",
+                "NUM",
+                "0"
+            ],
+            [
+                "/StemV",
+                "NUM",
+                "80"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/FontDescriptor"
+            ],
+            [
+                "/XHeight",
+                "NUM",
+                "448"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "250": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "216"
+            ],
+            [
+                "/N",
+                "NUM",
+                "1"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "260": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Alternate",
+                "NAME",
+                "/DeviceRGB"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "2574"
+            ],
+            [
+                "/N",
+                "NUM",
+                "3"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "270": {
+        "insn_list": [
+            [
+                "/Dest",
+                "MIX_LIST",
+                "4"
+            ],
+            [
+                "/Dest",
+                "REF",
+                "120"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "110"
+            ],
+            [
+                "/SE",
+                "REF",
+                "160"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(\\\\\\\\lcdat4\\\\copyright\\\\GCFILES\\\\1201 2012\\\\Attachments\\\\Convert\\\\[Name] = Ben Frede.txt)"
+            ]
+        ],
+        "out_edge_list": [
+            120,
+            110,
+            160
+        ]
+    },
+    "280": {
+        "insn_list": [
+            [
+                "/CT",
+                "STR",
+                "(text/plain)"
+            ],
+            [
+                "/ID",
+                "REF",
+                "200"
+            ],
+            [
+                "/O",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/O",
+                "REF",
+                "120"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/SPS"
+            ],
+            [
+                "/SI",
+                "REF",
+                "300"
+            ],
+            [
+                "/T",
+                "STR",
+                "(\\\\\\\\lcdat4\\\\copyright\\\\GCFILES\\\\1201 2012\\\\Attachments\\\\Convert\\\\[Name] = Ben Frede.txt)"
+            ],
+            [
+                "/TS",
+                "STR",
+                "(D:20120206230500Z)"
+            ]
+        ],
+        "out_edge_list": [
+            200,
+            120,
+            300
+        ]
+    },
+    "290": {
+        "insn_list": [
+            [
+                "/SINGLESTR",
+                "STR",
+                "(file:////lcdat4/copyright/GCFILES/1201%202012/Attachments/Convert/[Name]%20=%20Ben%20Frede.txt)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "300": {
+        "insn_list": [
+            [
+                "/AU",
+                "REF",
+                "290"
+            ],
+            [
+                "/TS",
+                "STR",
+                "(D:20120206230500Z)"
+            ]
+        ],
+        "out_edge_list": [
+            290
+        ]
+    }
+}

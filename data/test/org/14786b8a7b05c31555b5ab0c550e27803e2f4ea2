@@ -1,0 +1,113 @@
+{
+    "40": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "0000"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "50": {
+        "insn_list": [
+            [
+                "/Parent",
+                "REF",
+                "70"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "50"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/AA",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/AA/O",
+                "REF",
+                "80"
+            ]
+        ],
+        "out_edge_list": [
+            70,
+            50,
+            80
+        ]
+    },
+    "70": {
+        "insn_list": [
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "50"
+            ]
+        ],
+        "out_edge_list": [
+            50
+        ]
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ],
+            [
+                "/JS",
+                "REF",
+                "40"
+            ]
+        ],
+        "out_edge_list": [
+            40
+        ]
+    },
+    "100": {
+        "insn_list": [
+            [
+                "/Pages",
+                "REF",
+                "70"
+            ],
+            [
+                "/StructTreeRoot",
+                "REF",
+                "80"
+            ]
+        ],
+        "out_edge_list": [
+            70,
+            80
+        ]
+    }
+}

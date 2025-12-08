@@ -1,0 +1,1199 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/First",
+                "NUM",
+                "796"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1347"
+            ],
+            [
+                "/N",
+                "NUM",
+                "100"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/ObjStm"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "20": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Extends",
+                "REF",
+                "10"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/First",
+                "NUM",
+                "260"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "739"
+            ],
+            [
+                "/N",
+                "NUM",
+                "31"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/ObjStm"
+            ]
+        ],
+        "out_edge_list": [
+            10
+        ]
+    },
+    "30": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "24399"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ],
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "24409"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ],
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "24403"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "40": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/First",
+                "NUM",
+                "6"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "52"
+            ],
+            [
+                "/N",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/ObjStm"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "50": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/First",
+                "NUM",
+                "6"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "230"
+            ],
+            [
+                "/N",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/ObjStm"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "60": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms/Columns",
+                "NUM",
+                "5"
+            ],
+            [
+                "/DecodeParms/Predictor",
+                "NUM",
+                "12"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1400": {
+        "insn_list": [
+            [
+                "/Linearized",
+                "NUM",
+                "1"
+            ],
+            [
+                "/L",
+                "NUM",
+                "150489"
+            ],
+            [
+                "/O",
+                "NUM",
+                "142"
+            ],
+            [
+                "/E",
+                "NUM",
+                "122929"
+            ],
+            [
+                "/N",
+                "NUM",
+                "1"
+            ],
+            [
+                "/T",
+                "NUM",
+                "150166"
+            ],
+            [
+                "/H",
+                "NUM_LIST",
+                "2"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1410": {
+        "insn_list": [
+            [
+                "/MarkInfo",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/MarkInfo/Marked",
+                "BOOL",
+                "true"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1420": {
+        "insn_list": [
+            [
+                "/ArtBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/BleedBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Contents",
+                "REF_LIST",
+                "8"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "1440"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "1450"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "1460"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "1470"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "1480"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "1490"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "1500"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "1510"
+            ],
+            [
+                "/CropBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "1380"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/ExtGState",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/ExtGState/GS0",
+                "REF",
+                "1690"
+            ],
+            [
+                "/Resources/ExtGState/GS1",
+                "REF",
+                "1700"
+            ]
+        ],
+        "out_edge_list": [
+            1440,
+            1450,
+            1460,
+            1470,
+            1480,
+            1490,
+            1500,
+            1510,
+            1380,
+            1690,
+            1700
+        ]
+    },
+    "1430": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/First",
+                "NUM",
+                "214"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1423"
+            ],
+            [
+                "/N",
+                "NUM",
+                "25"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/ObjStm"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1440": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "2288"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1450": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "2106"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1460": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "2085"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1470": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "3741"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1480": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "2726"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1490": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "2556"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1500": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "2616"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1510": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "3993"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1520": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "15995"
+            ],
+            [
+                "/Length1",
+                "NUM",
+                "23866"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1530": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "408"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1540": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "34170"
+            ],
+            [
+                "/Length1",
+                "NUM",
+                "46146"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1550": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "649"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1560": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "3789"
+            ],
+            [
+                "/Length1",
+                "NUM",
+                "6886"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1570": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "230"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1580": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "285"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1C"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1590": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "226"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1600": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "265"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1C"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1610": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "226"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1620": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "2764"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1C"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1630": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "406"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1640": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1174"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1C"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1650": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "296"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1660": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "10090"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1670": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "25068"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1680": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms/Columns",
+                "NUM",
+                "5"
+            ],
+            [
+                "/DecodeParms/Predictor",
+                "NUM",
+                "12"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1940": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/C",
+                "NUM",
+                "118"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/I",
+                "NUM",
+                "140"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "118"
+            ],
+            [
+                "/S",
+                "NUM",
+                "38"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1950": {
+        "insn_list": [
+            [
+                "/Author",
+                "STR",
+                "(SE:W:CAR:SPEC)"
+            ],
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20120208123928-05'00')"
+            ],
+            [
+                "/Creator",
+                "STR",
+                "(Adobe InDesign CS2 \\(4.0.5\\))"
+            ],
+            [
+                "/ModDate",
+                "STR",
+                "(D:20120208145527-05'00')"
+            ],
+            [
+                "/Producer",
+                "STR",
+                "(Adobe PDF Library 7.0)"
+            ],
+            [
+                "/Subject",
+                "STR",
+                "(Key Points About Residential Energy Credits - Russian)"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(Publication 4845\\(RU\\) \\(Rev. 2-2012\\))"
+            ],
+            [
+                "/Trapped",
+                "NAME",
+                "/False"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1960": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms/Columns",
+                "NUM",
+                "4"
+            ],
+            [
+                "/DecodeParms/Predictor",
+                "NUM",
+                "12"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1970": {
+        "insn_list": [
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20120208123928-05'00')"
+            ],
+            [
+                "/Subject",
+                "STR",
+                "(Key Points About Residential Energy Credits - Russian)"
+            ],
+            [
+                "/Author",
+                "STR",
+                "(SE:W:CAR:PM)"
+            ],
+            [
+                "/Creator",
+                "STR",
+                "(Adobe InDesign CS2 \\(4.0.5\\))"
+            ],
+            [
+                "/Producer",
+                "STR",
+                "(Adobe PDF Library 7.0)"
+            ],
+            [
+                "/ModDate",
+                "STR",
+                "(D:20120307105826-05'00')"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(Publication 4845\\(RU\\) \\(Rev. 02-2012\\))"
+            ],
+            [
+                "/Trapped",
+                "NAME",
+                "/False"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "1980": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "26"
+            ],
+            [
+                "/Root",
+                "REF",
+                "1410"
+            ],
+            [
+                "/ID",
+                "STR_LIST",
+                "2"
+            ],
+            [
+                "/Info",
+                "REF",
+                "1970"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/W",
+                "NUM_LIST",
+                "3"
+            ],
+            [
+                "/Index",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/DecodeParms",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms/Columns",
+                "NUM",
+                "4"
+            ],
+            [
+                "/DecodeParms/Predictor",
+                "NUM",
+                "12"
+            ]
+        ],
+        "out_edge_list": [
+            1410,
+            1970
+        ]
+    }
+}

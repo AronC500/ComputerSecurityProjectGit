@@ -1,0 +1,285 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "50"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ]
+        ],
+        "out_edge_list": [
+            50
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/ModDate",
+                "STR",
+                "(D:19981231114858)"
+            ],
+            [
+                "/Creator",
+                "STR",
+                "(Acrobat 3.0 Scan Plug-in\\000)"
+            ],
+            [
+                "/Producer",
+                "STR",
+                "(Acrobat 3.0 Scan Plug-in\\000)"
+            ],
+            [
+                "/CreationDate",
+                "STR",
+                "(D:19981231114756)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/Linearized",
+                "NUM",
+                "1"
+            ],
+            [
+                "/O",
+                "NUM",
+                "5"
+            ],
+            [
+                "/H",
+                "NUM_LIST",
+                "2"
+            ],
+            [
+                "/L",
+                "NUM",
+                "22240"
+            ],
+            [
+                "/E",
+                "NUM",
+                "21889"
+            ],
+            [
+                "/N",
+                "NUM",
+                "1"
+            ],
+            [
+                "/T",
+                "NUM",
+                "22063"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "10"
+            ]
+        ],
+        "out_edge_list": [
+            10
+        ]
+    },
+    "50": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "10"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/XObject",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/XObject/Im1",
+                "REF",
+                "90"
+            ]
+        ],
+        "out_edge_list": [
+            10,
+            90
+        ]
+    },
+    "60": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/LZWDecode"
+            ],
+            [
+                "/Length",
+                "REF",
+                "70"
+            ]
+        ],
+        "out_edge_list": [
+            70
+        ]
+    },
+    "70": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "32"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "20563"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "90": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/XObject"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Image"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/Im1"
+            ],
+            [
+                "/Width",
+                "NUM",
+                "919"
+            ],
+            [
+                "/Height",
+                "NUM",
+                "1475"
+            ],
+            [
+                "/BitsPerComponent",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/ColorSpace",
+                "NAME",
+                "/DeviceGray"
+            ],
+            [
+                "/Length",
+                "REF",
+                "80"
+            ]
+        ],
+        "out_edge_list": [
+            80
+        ]
+    },
+    "100": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/S",
+                "NUM",
+                "36"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "REF",
+                "110"
+            ]
+        ],
+        "out_edge_list": [
+            110
+        ]
+    },
+    "110": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "45"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

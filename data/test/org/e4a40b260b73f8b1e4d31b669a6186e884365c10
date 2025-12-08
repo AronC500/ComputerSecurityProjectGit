@@ -1,0 +1,44 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/OpenAction",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/OpenAction/S",
+                "NAME",
+                "/JavaScript"
+            ],
+            [
+                "/OpenAction/JS",
+                "REF",
+                "20"
+            ]
+        ],
+        "out_edge_list": [
+            20
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1853"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

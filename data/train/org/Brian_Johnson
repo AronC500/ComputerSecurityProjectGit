@@ -1,0 +1,351 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "30"
+            ],
+            [
+                "/PageLayout",
+                "NAME",
+                "/OneColumn"
+            ]
+        ],
+        "out_edge_list": [
+            30
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/Producer",
+                "STR",
+                "(Bluebeam Brewery 5.0)"
+            ],
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20120126125515-05'00')"
+            ],
+            [
+                "/ModDate",
+                "STR",
+                "(D:20120126125515-05'00')"
+            ],
+            [
+                "/Creator",
+                "STR",
+                "(Bluebeam Stapler 9.5.1)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "40"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ]
+        ],
+        "out_edge_list": [
+            40
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/ProcSet",
+                "NAME_LIST",
+                "2"
+            ],
+            [
+                "/Resources/ExtGState",
+                "REF",
+                "100"
+            ],
+            [
+                "/Resources/Font",
+                "REF",
+                "110"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            100,
+            110
+        ]
+    },
+    "50": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "60"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": [
+            60
+        ]
+    },
+    "60": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "3466"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "70": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/ExtGState"
+            ],
+            [
+                "/OPM",
+                "NUM",
+                "1"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/BaseFont",
+                "NAME",
+                "/ZGSHBG+Calibri"
+            ],
+            [
+                "/FontDescriptor",
+                "REF",
+                "90"
+            ],
+            [
+                "/ToUnicode",
+                "REF",
+                "130"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ],
+            [
+                "/FirstChar",
+                "NUM",
+                "1"
+            ],
+            [
+                "/LastChar",
+                "NUM",
+                "44"
+            ],
+            [
+                "/Widths",
+                "NUM_LIST",
+                "44"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/TrueType"
+            ]
+        ],
+        "out_edge_list": [
+            90,
+            130
+        ]
+    },
+    "90": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/FontDescriptor"
+            ],
+            [
+                "/FontName",
+                "NAME",
+                "/ZGSHBG+Calibri"
+            ],
+            [
+                "/FontBBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Flags",
+                "NUM",
+                "4"
+            ],
+            [
+                "/Ascent",
+                "NUM",
+                "683"
+            ],
+            [
+                "/CapHeight",
+                "NUM",
+                "683"
+            ],
+            [
+                "/Descent",
+                "NUM",
+                "-178"
+            ],
+            [
+                "/ItalicAngle",
+                "NUM",
+                "0"
+            ],
+            [
+                "/StemV",
+                "NUM",
+                "128"
+            ],
+            [
+                "/MissingWidth",
+                "NUM",
+                "506"
+            ],
+            [
+                "/FontFile2",
+                "REF",
+                "120"
+            ]
+        ],
+        "out_edge_list": [
+            120
+        ]
+    },
+    "100": {
+        "insn_list": [
+            [
+                "/R7",
+                "REF",
+                "70"
+            ]
+        ],
+        "out_edge_list": [
+            70
+        ]
+    },
+    "110": {
+        "insn_list": [
+            [
+                "/R8",
+                "REF",
+                "80"
+            ]
+        ],
+        "out_edge_list": [
+            80
+        ]
+    },
+    "120": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length1",
+                "NUM",
+                "36824"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "14024"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "130": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "416"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

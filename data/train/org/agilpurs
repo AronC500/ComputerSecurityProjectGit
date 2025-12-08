@@ -1,0 +1,337 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/Metadata",
+                "REF",
+                "280"
+            ],
+            [
+                "/AcroForm",
+                "REF",
+                "240"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "20"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ]
+        ],
+        "out_edge_list": [
+            280,
+            240,
+            20
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "200"
+            ]
+        ],
+        "out_edge_list": [
+            200
+        ]
+    },
+    "200": {
+        "insn_list": [
+            [
+                "/Parent",
+                "REF",
+                "20"
+            ],
+            [
+                "/Contents",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "220"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/XObject",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/XObject/Ob21",
+                "REF",
+                "210"
+            ]
+        ],
+        "out_edge_list": [
+            20,
+            220,
+            210
+        ]
+    },
+    "210": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Image"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "80099"
+            ],
+            [
+                "/Filter",
+                "NAME_LIST",
+                "1"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/Ob21"
+            ],
+            [
+                "/BitsPerComponent",
+                "NUM",
+                "8"
+            ],
+            [
+                "/ColorSpace",
+                "NAME",
+                "/DeviceGray"
+            ],
+            [
+                "/Width",
+                "NUM",
+                "850"
+            ],
+            [
+                "/Height",
+                "NUM",
+                "1099"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/XObject"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "220": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "45"
+            ],
+            [
+                "/Filter",
+                "NAME_LIST",
+                "1"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "230": {
+        "insn_list": [
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20090401155203Z)"
+            ],
+            [
+                "/Author",
+                "STR",
+                "(Liloswalkup [ COP4JHTBF1 ])"
+            ],
+            [
+                "/Producer",
+                "STR",
+                "(Hewlett-Packard Intelligent Scanning Technology\\n3)"
+            ],
+            [
+                "/ModDate",
+                "STR",
+                "(D:20090401155236-04'00')"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "240": {
+        "insn_list": [
+            [
+                "/Fields",
+                "MIX_LIST",
+                "0"
+            ],
+            [
+                "/DA",
+                "STR",
+                "(/Helv 0 Tf 0 g )"
+            ],
+            [
+                "/DR",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DR/Font",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DR/Font/Helv",
+                "REF",
+                "260"
+            ],
+            [
+                "/DR/Font/ZaDb",
+                "REF",
+                "250"
+            ]
+        ],
+        "out_edge_list": [
+            260,
+            250
+        ]
+    },
+    "250": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/ZaDb"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/ZapfDingbats"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "260": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/Helv"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/Helvetica"
+            ],
+            [
+                "/Encoding",
+                "REF",
+                "270"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": [
+            270
+        ]
+    },
+    "270": {
+        "insn_list": [
+            [
+                "/Differences",
+                "MIX_LIST",
+                "140"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Encoding"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "280": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "3460"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

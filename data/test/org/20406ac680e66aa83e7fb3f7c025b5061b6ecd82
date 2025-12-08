@@ -1,0 +1,132 @@
+{
+    "100": {
+        "insn_list": [
+            [
+                "/Names",
+                "MIX_LIST",
+                "2"
+            ],
+            [
+                "/Names",
+                "REF",
+                "1210"
+            ]
+        ],
+        "out_edge_list": [
+            1210
+        ]
+    },
+    "110": {
+        "insn_list": [
+            [
+                "/OpenAction",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/OpenAction/JS",
+                "STR",
+                "(this.MainScript\\(\\))"
+            ],
+            [
+                "/OpenAction/S",
+                "NAME",
+                "/JavaScript"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "410": {
+        "insn_list": [
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "910"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ]
+        ],
+        "out_edge_list": [
+            910
+        ]
+    },
+    "700": {
+        "insn_list": [
+            [
+                "/JavaScript",
+                "REF",
+                "100"
+            ]
+        ],
+        "out_edge_list": [
+            100
+        ]
+    },
+    "910": {
+        "insn_list": [
+            [
+                "/Parent",
+                "REF",
+                "410"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ]
+        ],
+        "out_edge_list": [
+            410
+        ]
+    },
+    "1210": {
+        "insn_list": [
+            [
+                "/JS",
+                "REF",
+                "1310"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ]
+        ],
+        "out_edge_list": [
+            1310
+        ]
+    },
+    "1310": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "4683"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

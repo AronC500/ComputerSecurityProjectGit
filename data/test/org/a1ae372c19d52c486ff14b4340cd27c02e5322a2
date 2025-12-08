@@ -1,0 +1,137 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1917"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ],
+            [
+                "/O#75t#6cines",
+                "REF",
+                "40"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "50"
+            ],
+            [
+                "/OpenAction",
+                "REF",
+                "90"
+            ]
+        ],
+        "out_edge_list": [
+            40,
+            50,
+            90
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/O#75tlines"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "50": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Co#75nt",
+                "NUM",
+                "2"
+            ],
+            [
+                "/#4bids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/#4bids",
+                "REF",
+                "80"
+            ]
+        ],
+        "out_edge_list": [
+            80
+        ]
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "50"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ]
+        ],
+        "out_edge_list": [
+            50
+        ]
+    },
+    "90": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Action"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ],
+            [
+                "/JS",
+                "REF",
+                "10"
+            ]
+        ],
+        "out_edge_list": [
+            10
+        ]
+    }
+}

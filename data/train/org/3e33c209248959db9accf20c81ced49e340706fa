@@ -1,0 +1,99 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/Pages",
+                "REF",
+                "20"
+            ],
+            [
+                "/OpenAction",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/OpenAction/JS",
+                "REF",
+                "30"
+            ],
+            [
+                "/OpenAction/S",
+                "NAME",
+                "/JavaScript"
+            ]
+        ],
+        "out_edge_list": [
+            20,
+            30
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "40"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ]
+        ],
+        "out_edge_list": [
+            40
+        ]
+    },
+    "30": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "5082"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Parent",
+                "REF",
+                "20"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/pdftk_PageNum",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ]
+        ],
+        "out_edge_list": [
+            20
+        ]
+    }
+}

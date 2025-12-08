@@ -1,0 +1,1522 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/ViewerPreferences",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/ViewerPreferences/Direction",
+                "NAME",
+                "/L2R"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "5280"
+            ]
+        ],
+        "out_edge_list": [
+            5280
+        ]
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20050819165514Z)"
+            ],
+            [
+                "/Creator",
+                "STR",
+                "(Adobe InDesign CS \\(3.0.1\\))"
+            ],
+            [
+                "/Producer",
+                "STR",
+                "(Adobe PDF Library 6.0)"
+            ],
+            [
+                "/ModDate",
+                "STR",
+                "(D:20060509121748-04'00')"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(Notices 2005_08.indd)"
+            ],
+            [
+                "/Trapped",
+                "NAME",
+                "/False"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "110": {
+        "insn_list": [
+            [
+                "/OPM",
+                "NUM",
+                "1"
+            ],
+            [
+                "/BM",
+                "NAME",
+                "/Normal"
+            ],
+            [
+                "/CA",
+                "NUM",
+                "1.0"
+            ],
+            [
+                "/OP",
+                "BOOL",
+                "false"
+            ],
+            [
+                "/SMask",
+                "NAME",
+                "/None"
+            ],
+            [
+                "/ca",
+                "NUM",
+                "1.0"
+            ],
+            [
+                "/AIS",
+                "BOOL",
+                "false"
+            ],
+            [
+                "/op",
+                "BOOL",
+                "false"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/ExtGState"
+            ],
+            [
+                "/SA",
+                "BOOL",
+                "true"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "360": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/Type0"
+            ],
+            [
+                "/DescendantFonts",
+                "REF",
+                "370"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/GBJFCE+BureauGrotSevenNine"
+            ],
+            [
+                "/ToUnicode",
+                "REF",
+                "8250"
+            ],
+            [
+                "/Encoding",
+                "NAME",
+                "/Identity-H"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": [
+            370,
+            8250
+        ]
+    },
+    "370": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "380"
+            ]
+        ],
+        "out_edge_list": [
+            380
+        ]
+    },
+    "380": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/CIDFontType0"
+            ],
+            [
+                "/FontDescriptor",
+                "REF",
+                "400"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/GBJFCE+BureauGrotSevenNine"
+            ],
+            [
+                "/W",
+                "NUM_LIST",
+                "66"
+            ],
+            [
+                "/CIDSystemInfo",
+                "REF",
+                "390"
+            ],
+            [
+                "/DW",
+                "NUM",
+                "1000"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": [
+            400,
+            390
+        ]
+    },
+    "390": {
+        "insn_list": [
+            [
+                "/Supplement",
+                "NUM",
+                "0"
+            ],
+            [
+                "/Ordering",
+                "STR",
+                "(Identity)"
+            ],
+            [
+                "/Registry",
+                "STR",
+                "(Adobe)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "400": {
+        "insn_list": [
+            [
+                "/StemV",
+                "NUM",
+                "196"
+            ],
+            [
+                "/FontName",
+                "NAME",
+                "/GBJFCE+BureauGrotSevenNine"
+            ],
+            [
+                "/FontFile3",
+                "REF",
+                "8230"
+            ],
+            [
+                "/Flags",
+                "NUM",
+                "4"
+            ],
+            [
+                "/Descent",
+                "NUM",
+                "-241"
+            ],
+            [
+                "/FontBBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Ascent",
+                "NUM",
+                "997"
+            ],
+            [
+                "/CapHeight",
+                "NUM",
+                "768"
+            ],
+            [
+                "/XHeight",
+                "NUM",
+                "532"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/FontDescriptor"
+            ],
+            [
+                "/ItalicAngle",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            8230
+        ]
+    },
+    "410": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/Type0"
+            ],
+            [
+                "/DescendantFonts",
+                "REF",
+                "420"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/ELPTAI+BureauGrotThreeSeven"
+            ],
+            [
+                "/ToUnicode",
+                "REF",
+                "8290"
+            ],
+            [
+                "/Encoding",
+                "NAME",
+                "/Identity-H"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": [
+            420,
+            8290
+        ]
+    },
+    "420": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "430"
+            ]
+        ],
+        "out_edge_list": [
+            430
+        ]
+    },
+    "430": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/CIDFontType0"
+            ],
+            [
+                "/FontDescriptor",
+                "REF",
+                "450"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/ELPTAI+BureauGrotThreeSeven"
+            ],
+            [
+                "/W",
+                "NUM_LIST",
+                "66"
+            ],
+            [
+                "/CIDSystemInfo",
+                "REF",
+                "440"
+            ],
+            [
+                "/DW",
+                "NUM",
+                "1000"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": [
+            450,
+            440
+        ]
+    },
+    "440": {
+        "insn_list": [
+            [
+                "/Supplement",
+                "NUM",
+                "0"
+            ],
+            [
+                "/Ordering",
+                "STR",
+                "(Identity)"
+            ],
+            [
+                "/Registry",
+                "STR",
+                "(Adobe)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "450": {
+        "insn_list": [
+            [
+                "/StemV",
+                "NUM",
+                "156"
+            ],
+            [
+                "/FontName",
+                "NAME",
+                "/ELPTAI+BureauGrotThreeSeven"
+            ],
+            [
+                "/FontFile3",
+                "REF",
+                "8270"
+            ],
+            [
+                "/Flags",
+                "NUM",
+                "4"
+            ],
+            [
+                "/Descent",
+                "NUM",
+                "-203"
+            ],
+            [
+                "/FontBBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Ascent",
+                "NUM",
+                "959"
+            ],
+            [
+                "/CapHeight",
+                "NUM",
+                "768"
+            ],
+            [
+                "/XHeight",
+                "NUM",
+                "574"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/FontDescriptor"
+            ],
+            [
+                "/ItalicAngle",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            8270
+        ]
+    },
+    "460": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/Type0"
+            ],
+            [
+                "/DescendantFonts",
+                "REF",
+                "470"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/ELPTAI+MinionC-Italic"
+            ],
+            [
+                "/ToUnicode",
+                "REF",
+                "8330"
+            ],
+            [
+                "/Encoding",
+                "NAME",
+                "/Identity-H"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": [
+            470,
+            8330
+        ]
+    },
+    "470": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "480"
+            ]
+        ],
+        "out_edge_list": [
+            480
+        ]
+    },
+    "480": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/CIDFontType0"
+            ],
+            [
+                "/FontDescriptor",
+                "REF",
+                "500"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/ELPTAI+MinionC-Italic"
+            ],
+            [
+                "/W",
+                "NUM_LIST",
+                "90"
+            ],
+            [
+                "/CIDSystemInfo",
+                "REF",
+                "490"
+            ],
+            [
+                "/DW",
+                "NUM",
+                "1000"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": [
+            500,
+            490
+        ]
+    },
+    "490": {
+        "insn_list": [
+            [
+                "/Supplement",
+                "NUM",
+                "0"
+            ],
+            [
+                "/Ordering",
+                "STR",
+                "(Identity)"
+            ],
+            [
+                "/Registry",
+                "STR",
+                "(Adobe)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "500": {
+        "insn_list": [
+            [
+                "/StemV",
+                "NUM",
+                "72"
+            ],
+            [
+                "/FontName",
+                "NAME",
+                "/ELPTAI+MinionC-Italic"
+            ],
+            [
+                "/FontFile3",
+                "REF",
+                "8310"
+            ],
+            [
+                "/Flags",
+                "NUM",
+                "70"
+            ],
+            [
+                "/Descent",
+                "NUM",
+                "-250"
+            ],
+            [
+                "/FontBBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Ascent",
+                "NUM",
+                "812"
+            ],
+            [
+                "/CapHeight",
+                "NUM",
+                "650"
+            ],
+            [
+                "/XHeight",
+                "NUM",
+                "446"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/FontDescriptor"
+            ],
+            [
+                "/ItalicAngle",
+                "NUM",
+                "-11"
+            ]
+        ],
+        "out_edge_list": [
+            8310
+        ]
+    },
+    "510": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/Type0"
+            ],
+            [
+                "/DescendantFonts",
+                "REF",
+                "520"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/DDFNMK+MinionC-Roman"
+            ],
+            [
+                "/ToUnicode",
+                "REF",
+                "8370"
+            ],
+            [
+                "/Encoding",
+                "NAME",
+                "/Identity-H"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": [
+            520,
+            8370
+        ]
+    },
+    "520": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "530"
+            ]
+        ],
+        "out_edge_list": [
+            530
+        ]
+    },
+    "530": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/CIDFontType0"
+            ],
+            [
+                "/FontDescriptor",
+                "REF",
+                "550"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/DDFNMK+MinionC-Roman"
+            ],
+            [
+                "/W",
+                "NUM_LIST",
+                "105"
+            ],
+            [
+                "/CIDSystemInfo",
+                "REF",
+                "540"
+            ],
+            [
+                "/DW",
+                "NUM",
+                "1000"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": [
+            550,
+            540
+        ]
+    },
+    "540": {
+        "insn_list": [
+            [
+                "/Supplement",
+                "NUM",
+                "0"
+            ],
+            [
+                "/Ordering",
+                "STR",
+                "(Identity)"
+            ],
+            [
+                "/Registry",
+                "STR",
+                "(Adobe)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "550": {
+        "insn_list": [
+            [
+                "/StemV",
+                "NUM",
+                "80"
+            ],
+            [
+                "/FontName",
+                "NAME",
+                "/DDFNMK+MinionC-Roman"
+            ],
+            [
+                "/FontFile3",
+                "REF",
+                "8350"
+            ],
+            [
+                "/Flags",
+                "NUM",
+                "6"
+            ],
+            [
+                "/Descent",
+                "NUM",
+                "-250"
+            ],
+            [
+                "/FontBBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Ascent",
+                "NUM",
+                "812"
+            ],
+            [
+                "/CapHeight",
+                "NUM",
+                "650"
+            ],
+            [
+                "/XHeight",
+                "NUM",
+                "434"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/FontDescriptor"
+            ],
+            [
+                "/ItalicAngle",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": [
+            8350
+        ]
+    },
+    "630": {
+        "insn_list": [
+            [
+                "/OPM",
+                "NUM",
+                "1"
+            ],
+            [
+                "/BM",
+                "NAME",
+                "/Normal"
+            ],
+            [
+                "/CA",
+                "NUM",
+                "1.0"
+            ],
+            [
+                "/OP",
+                "BOOL",
+                "true"
+            ],
+            [
+                "/SMask",
+                "NAME",
+                "/None"
+            ],
+            [
+                "/ca",
+                "NUM",
+                "1.0"
+            ],
+            [
+                "/AIS",
+                "BOOL",
+                "false"
+            ],
+            [
+                "/op",
+                "BOOL",
+                "true"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/ExtGState"
+            ],
+            [
+                "/SA",
+                "BOOL",
+                "true"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "5280": {
+        "insn_list": [
+            [
+                "/Parent",
+                "REF",
+                "20"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "7920"
+            ]
+        ],
+        "out_edge_list": [
+            20,
+            7920
+        ]
+    },
+    "7920": {
+        "insn_list": [
+            [
+                "/CropBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "5280"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "8160"
+            ],
+            [
+                "/BleedBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/ArtBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/TrimBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/XObject",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/XObject/Im0",
+                "REF",
+                "8090"
+            ]
+        ],
+        "out_edge_list": [
+            5280,
+            8160,
+            8090
+        ]
+    },
+    "8070": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1557"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "8090": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Image"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "57765"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/JPXDecode"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/X"
+            ],
+            [
+                "/BitsPerComponent",
+                "NUM",
+                "8"
+            ],
+            [
+                "/ColorSpace",
+                "NAME",
+                "/DeviceGray"
+            ],
+            [
+                "/Width",
+                "NUM",
+                "780"
+            ],
+            [
+                "/Height",
+                "NUM",
+                "348"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/XObject"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "8150": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "22228"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "8160": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "4682"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "8220": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "3226"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "8230": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/CIDFontType0C"
+            ],
+            [
+                "/Length",
+                "REF",
+                "8220"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": [
+            8220
+        ]
+    },
+    "8240": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "431"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "8250": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "8240"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": [
+            8240
+        ]
+    },
+    "8260": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "3485"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "8270": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/CIDFontType0C"
+            ],
+            [
+                "/Length",
+                "REF",
+                "8260"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": [
+            8260
+        ]
+    },
+    "8280": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "455"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "8290": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "8280"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": [
+            8280
+        ]
+    },
+    "8300": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "6939"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "8310": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/CIDFontType0C"
+            ],
+            [
+                "/Length",
+                "REF",
+                "8300"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": [
+            8300
+        ]
+    },
+    "8320": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "534"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "8330": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "8320"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": [
+            8320
+        ]
+    },
+    "8340": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "7034"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "8350": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/CIDFontType0C"
+            ],
+            [
+                "/Length",
+                "REF",
+                "8340"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": [
+            8340
+        ]
+    },
+    "8360": {
+        "insn_list": [
+            [
+                "/SINGLENUM",
+                "NUM",
+                "586"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "8370": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "REF",
+                "8360"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ]
+        ],
+        "out_edge_list": [
+            8360
+        ]
+    },
+    "8510": {
+        "insn_list": [
+            [
+                "/Fields",
+                "MIX_LIST",
+                "0"
+            ],
+            [
+                "/DA",
+                "STR",
+                "(/Helv 0 Tf 0 g )"
+            ],
+            [
+                "/DR",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DR/Font",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DR/Font/Helv",
+                "REF",
+                "8530"
+            ],
+            [
+                "/DR/Font/ZaDb",
+                "REF",
+                "8520"
+            ]
+        ],
+        "out_edge_list": [
+            8530,
+            8520
+        ]
+    },
+    "8520": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/ZaDb"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/ZapfDingbats"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "8530": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/Helv"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/Helvetica"
+            ],
+            [
+                "/Encoding",
+                "REF",
+                "8540"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": [
+            8540
+        ]
+    },
+    "8540": {
+        "insn_list": [
+            [
+                "/Differences",
+                "MIX_LIST",
+                "140"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Encoding"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "8560": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "13119"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

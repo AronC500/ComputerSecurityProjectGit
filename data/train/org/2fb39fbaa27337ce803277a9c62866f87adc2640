@@ -1,0 +1,248 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/Names",
+                "REF",
+                "20"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "30"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ]
+        ],
+        "out_edge_list": [
+            20,
+            30
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/JavaScript",
+                "REF",
+                "70"
+            ]
+        ],
+        "out_edge_list": [
+            70
+        ]
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "40"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ]
+        ],
+        "out_edge_list": [
+            40
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Parent",
+                "REF",
+                "30"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/XObject",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/XObject/Im7",
+                "REF",
+                "50"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            50
+        ]
+    },
+    "50": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Width",
+                "NUM",
+                "100"
+            ],
+            [
+                "/BitsPerComponent",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/Im7"
+            ],
+            [
+                "/Height",
+                "NUM",
+                "62"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Image"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "806"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/XObject"
+            ],
+            [
+                "/ColorSpace",
+                "MIX_LIST",
+                "4"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "60": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "39"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "70": {
+        "insn_list": [
+            [
+                "/Names",
+                "REF",
+                "80"
+            ]
+        ],
+        "out_edge_list": [
+            80
+        ]
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "MIX_LIST",
+                "2"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "90"
+            ]
+        ],
+        "out_edge_list": [
+            90
+        ]
+    },
+    "90": {
+        "insn_list": [
+            [
+                "/JS",
+                "REF",
+                "100"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Action"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ]
+        ],
+        "out_edge_list": [
+            100
+        ]
+    },
+    "100": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "26420"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "110": {
+        "insn_list": [
+            [
+                "/Creator",
+                "STR",
+                "(fackoPDF 6.09)"
+            ],
+            [
+                "/Producer",
+                "STR",
+                "(BCL macroPDF 7.06)"
+            ],
+            [
+                "/ModDate",
+                "STR",
+                "(D:20093108521535+02'00')"
+            ],
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20093108431528+03'00')"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

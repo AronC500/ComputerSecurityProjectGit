@@ -1,0 +1,294 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "70"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ]
+        ],
+        "out_edge_list": [
+            70
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "10"
+            ],
+            [
+                "/OpenAction",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/OpenAction/JS",
+                "REF",
+                "100"
+            ],
+            [
+                "/OpenAction/S",
+                "NAME",
+                "/JavaScript"
+            ]
+        ],
+        "out_edge_list": [
+            10,
+            100
+        ]
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/ProcSet",
+                "NAME_LIST",
+                "3"
+            ],
+            [
+                "/Font",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Font/F1",
+                "REF",
+                "90"
+            ],
+            [
+                "/Font/F3",
+                "REF",
+                "80"
+            ]
+        ],
+        "out_edge_list": [
+            90,
+            80
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Info"
+            ],
+            [
+                "/Producer",
+                "STR",
+                "(null)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "50": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1934"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "60": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/Image"
+            ],
+            [
+                "/Height",
+                "NUM",
+                "28"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/XObject"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/BitsPerComponent",
+                "NUM",
+                "8"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "979"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/Im1"
+            ],
+            [
+                "/Width",
+                "NUM",
+                "82"
+            ],
+            [
+                "/ColorSpace",
+                "NAME",
+                "/DeviceRGB"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "70": {
+        "insn_list": [
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "50"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "30"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "10"
+            ]
+        ],
+        "out_edge_list": [
+            50,
+            30,
+            10
+        ]
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ],
+            [
+                "/Encoding",
+                "NAME",
+                "/WinAnsiEncoding"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/Helvetica-Bold"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/F3"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "90": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ],
+            [
+                "/Encoding",
+                "NAME",
+                "/WinAnsiEncoding"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/Helvetica"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/F1"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "100": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME_LIST",
+                "3"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "6026"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

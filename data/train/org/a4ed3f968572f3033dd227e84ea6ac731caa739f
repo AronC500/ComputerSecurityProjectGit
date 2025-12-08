@@ -1,0 +1,265 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/OpenAction",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/OpenAction/JS",
+                "STR",
+                "(this.LGQJpGRG\\(\\))"
+            ],
+            [
+                "/OpenAction/S",
+                "NAME",
+                "/JavaScript"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "MIX_LIST",
+                "0"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/Type",
+                "NAME",
+                "/Outlines"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "0"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Resources",
+                "REF",
+                "80"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "90"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ]
+        ],
+        "out_edge_list": [
+            80,
+            90
+        ]
+    },
+    "50": {
+        "insn_list": [
+            [
+                "/Fields",
+                "MIX_LIST",
+                "0"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "60": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "NULL",
+                "<Blank>"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "70": {
+        "insn_list": [
+            [
+                "/JavaScript",
+                "REF",
+                "100"
+            ]
+        ],
+        "out_edge_list": [
+            100
+        ]
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/ProcSet",
+                "NAME_LIST",
+                "5"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "90": {
+        "insn_list": [
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "40"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/TrimBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "80"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/Contents",
+                "REF",
+                "110"
+            ]
+        ],
+        "out_edge_list": [
+            40,
+            80,
+            110
+        ]
+    },
+    "100": {
+        "insn_list": [
+            [
+                "/Names",
+                "MIX_LIST",
+                "2"
+            ],
+            [
+                "/Names",
+                "REF",
+                "120"
+            ]
+        ],
+        "out_edge_list": [
+            120
+        ]
+    },
+    "110": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "36"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "120": {
+        "insn_list": [
+            [
+                "/JS",
+                "REF",
+                "130"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ]
+        ],
+        "out_edge_list": [
+            130
+        ]
+    },
+    "130": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1261"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "140": {
+        "insn_list": [
+            [
+                "/Creator",
+                "STR",
+                "(Scribus 1.3.3.12)"
+            ],
+            [
+                "/Title",
+                "STR",
+                "(Scribus PDF Library 1.3.3.12)"
+            ],
+            [
+                "/Author",
+                "STR",
+                "(D:20091007140317)"
+            ],
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20091007140317)"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

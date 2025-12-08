@@ -1,0 +1,824 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/Count",
+                "NUM",
+                "0"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Outlines"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/Differences",
+                "MIX_LIST",
+                "140"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Encoding"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/Helv"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/Helvetica"
+            ],
+            [
+                "/Encoding",
+                "REF",
+                "20"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": [
+            20
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/Name",
+                "NAME",
+                "/ZaDb"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/ZapfDingbats"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "50": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/image#2Fjpeg"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "416221"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/DL",
+                "NUM",
+                "430146"
+            ],
+            [
+                "/Params",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Params/CreationDate",
+                "STR",
+                "(D:20091216215036+08'00')"
+            ],
+            [
+                "/Params/ModDate",
+                "STR",
+                "(D:20051219111828+08'00')"
+            ],
+            [
+                "/Params/Size",
+                "NUM",
+                "430146"
+            ],
+            [
+                "/Params/CheckSum",
+                "STR",
+                "(ob$Qe\\nNd)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "60": {
+        "insn_list": [
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "70"
+            ]
+        ],
+        "out_edge_list": [
+            70
+        ]
+    },
+    "70": {
+        "insn_list": [
+            [
+                "/SINGLELIST",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/SINGLELIST",
+                "REF",
+                "200"
+            ]
+        ],
+        "out_edge_list": [
+            200
+        ]
+    },
+    "80": {
+        "insn_list": [
+            [
+                "/Names",
+                "MIX_LIST",
+                "2"
+            ],
+            [
+                "/Names",
+                "REF",
+                "90"
+            ]
+        ],
+        "out_edge_list": [
+            90
+        ]
+    },
+    "90": {
+        "insn_list": [
+            [
+                "/UF",
+                "STR",
+                "(temp.jpg)"
+            ],
+            [
+                "/F",
+                "STR",
+                "(temp.jpg)"
+            ],
+            [
+                "/EF",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/EF/F",
+                "REF",
+                "50"
+            ]
+        ],
+        "out_edge_list": [
+            50
+        ]
+    },
+    "100": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "3422"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "110": {
+        "insn_list": [
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20091224143943Z)"
+            ],
+            [
+                "/Author",
+                "STR",
+                "(Stephan Huck)"
+            ],
+            [
+                "/Producer",
+                "STR",
+                "(PDF Editor   - Foxit Software)"
+            ],
+            [
+                "/ModDate",
+                "STR",
+                "(D:20091224150252+08'00')"
+            ],
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20091224143943Z)"
+            ],
+            [
+                "/Author",
+                "STR",
+                "(Stephan Huck)"
+            ],
+            [
+                "/Producer",
+                "STR",
+                "(PDF Editor   - Foxit Software)"
+            ],
+            [
+                "/ModDate",
+                "STR",
+                "(D:20091224150408+08'00')"
+            ],
+            [
+                "/CreationDate",
+                "STR",
+                "(D:20091224143943Z)"
+            ],
+            [
+                "/Author",
+                "STR",
+                "(Stephan Huck)"
+            ],
+            [
+                "/Producer",
+                "STR",
+                "(PDF Editor   - Foxit Software)"
+            ],
+            [
+                "/ModDate",
+                "STR",
+                "(D:20091224154945+08'00')"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "120": {
+        "insn_list": [
+            [
+                "/Linearized",
+                "NUM",
+                "1"
+            ],
+            [
+                "/L",
+                "NUM",
+                "426608"
+            ],
+            [
+                "/O",
+                "NUM",
+                "20"
+            ],
+            [
+                "/E",
+                "NUM",
+                "4618"
+            ],
+            [
+                "/N",
+                "NUM",
+                "1"
+            ],
+            [
+                "/T",
+                "NUM",
+                "426321"
+            ],
+            [
+                "/H",
+                "NUM_LIST",
+                "2"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "130": {
+        "insn_list": [
+            [
+                "/PageMode",
+                "NAME",
+                "/UseAttachments"
+            ],
+            [
+                "/Names",
+                "REF",
+                "150"
+            ],
+            [
+                "/Outlines",
+                "REF",
+                "10"
+            ],
+            [
+                "/Metadata",
+                "REF",
+                "100"
+            ],
+            [
+                "/AcroForm",
+                "REF",
+                "140"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "60"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ],
+            [
+                "/PageMode",
+                "NAME",
+                "/UseNone"
+            ],
+            [
+                "/Names",
+                "REF",
+                "150"
+            ],
+            [
+                "/Outlines",
+                "REF",
+                "10"
+            ],
+            [
+                "/Metadata",
+                "REF",
+                "230"
+            ],
+            [
+                "/AcroForm",
+                "REF",
+                "140"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "60"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ],
+            [
+                "/PageMode",
+                "NAME",
+                "/UseNone"
+            ],
+            [
+                "/Names",
+                "REF",
+                "150"
+            ],
+            [
+                "/Outlines",
+                "REF",
+                "10"
+            ],
+            [
+                "/Metadata",
+                "REF",
+                "250"
+            ],
+            [
+                "/AcroForm",
+                "REF",
+                "140"
+            ],
+            [
+                "/Pages",
+                "REF",
+                "60"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Catalog"
+            ]
+        ],
+        "out_edge_list": [
+            150,
+            10,
+            100,
+            140,
+            60,
+            150,
+            10,
+            230,
+            140,
+            60,
+            150,
+            10,
+            250,
+            140,
+            60
+        ]
+    },
+    "140": {
+        "insn_list": [
+            [
+                "/Fields",
+                "MIX_LIST",
+                "0"
+            ],
+            [
+                "/DA",
+                "STR",
+                "(/Helv 0 Tf 0 g )"
+            ],
+            [
+                "/DR",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DR/Font",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/DR/Font/Helv",
+                "REF",
+                "30"
+            ],
+            [
+                "/DR/Font/ZaDb",
+                "REF",
+                "40"
+            ]
+        ],
+        "out_edge_list": [
+            30,
+            40
+        ]
+    },
+    "150": {
+        "insn_list": [
+            [
+                "/JavaScript",
+                "REF",
+                "160"
+            ],
+            [
+                "/EmbeddedFiles",
+                "REF",
+                "80"
+            ]
+        ],
+        "out_edge_list": [
+            160,
+            80
+        ]
+    },
+    "160": {
+        "insn_list": [
+            [
+                "/Names",
+                "MIX_LIST",
+                "4"
+            ],
+            [
+                "/Names",
+                "REF",
+                "170"
+            ],
+            [
+                "/Names",
+                "REF",
+                "180"
+            ],
+            [
+                "/Names",
+                "MIX_LIST",
+                "2"
+            ],
+            [
+                "/Names",
+                "REF",
+                "180"
+            ]
+        ],
+        "out_edge_list": [
+            170,
+            180,
+            180
+        ]
+    },
+    "170": {
+        "insn_list": [
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ],
+            [
+                "/JS",
+                "STR",
+                "(var v = app.viewerVersion;\\nif \\(v < 7\\)\\n{\\n\tvar n = 0;\\n\tif \\(this.dataObjects != null\\)\\n\t\tn = this.dataObjects.length;\\n\tif \\(v \\ >= 5 && v < 6 && n > 0 && \\(app.viewerVariation == \"Full\" || app.viewerVariation == \"Fill-In\"\\)\\)\\n\t{\\n\t\tif \\(this.external\\)\\n\t\t\ta\\ pp.alert\\(\"g,ehcST+eNDN0gw\u000bDN\fSUQ O[X c\tgeO[XehcRog,\fq6TW\\( Acrobat N-bS_Rog,\f^v\tb eN > ehc\\\\^`' > ]LQevepcn[a 0\", 3, 0\\);\\n\t\telse\\n\t\t\tapp.alert\\(\"g,ehcST+eN\\ DN0\tb eN > ehc\\\\^`' > ]LQevepcn[a gegw\u000bDN0\", 3, 0\\);\\n\t}\\n\telse if \\(v >= 6 && v < 7\\)\\n\t{\\n\t\tif \\(n == 0\\)\\n\t\t{\\n\t\t\tvar np = this.numPages;\\n\\ \t\t\tsyncAnnotScan\\(\\);\\n\t\t\tfor \\(var p = 0; p < np && n == 0; ++p\\)\\n\t\t\t{\\n\t\t\t\tvar annots = this.getAnnots\\(p\\);\\n\t\t\t\tif \\(annots != n\\ ull\\)\\n\t\t\t\t{\\n\t\t\t\t\tfor \\(var i = 0; i < annots.length; ++i\\)\\n\t\t\t\t\t{\\n\t\t\t\t\t\tif \\(annots[i].type == \"FileAttachment\"\\)\\n\t\t\t\t\t\t{\\n\t\t\t\t\t\\ \t\tn = 1;\\n\t\t\t\t\t\t\tbreak;\\n\t\t\t\t\t\t}\\n\t\t\t\t\t}\\n\t\t\t\t}\\n\t\t\t}\\n\t\t}\\n\t\tif \\(n > 0\\)\\n\t\t{\\n\t\t\tif \\(this.external\\)\\n\t\t\t\tapp.alert\\(\"g,ehcST+eNDN0gw\u000b\\ DN\fSUQehczSWvnRgavvrN\t_b\fq6T\tb eNDN 0\", 3, 0\\);\\n\t\t\telse\\n\t\t\t\tapp.alert\\(\"g,ehcST+eNDN0\tb ehc > eNDN SUgegw\u000bDN0\", 3, 0\\);\\n\t\t}\\n\t}\\n}\\n)"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "180": {
+        "insn_list": [
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ],
+            [
+                "/JS",
+                "REF",
+                "190"
+            ],
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ],
+            [
+                "/JS",
+                "REF",
+                "240"
+            ]
+        ],
+        "out_edge_list": [
+            190,
+            240
+        ]
+    },
+    "190": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1086"
+            ],
+            [
+                "/Filter",
+                "NAME_LIST",
+                "1"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "200": {
+        "insn_list": [
+            [
+                "/CropBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "60"
+            ],
+            [
+                "/Rotate",
+                "NUM",
+                "0"
+            ],
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/Font",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/Font/FXF1",
+                "REF",
+                "210"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ]
+        ],
+        "out_edge_list": [
+            60,
+            210
+        ]
+    },
+    "210": {
+        "insn_list": [
+            [
+                "/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/BaseFont",
+                "NAME",
+                "/Helvetica"
+            ],
+            [
+                "/Encoding",
+                "NAME",
+                "/WinAnsiEncoding"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Font"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "220": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "103"
+            ],
+            [
+                "/B",
+                "NUM",
+                "112"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/FlateDecode"
+            ],
+            [
+                "/I",
+                "NUM",
+                "137"
+            ],
+            [
+                "/O",
+                "NUM",
+                "74"
+            ],
+            [
+                "/S",
+                "NUM",
+                "38"
+            ],
+            [
+                "/V",
+                "NUM",
+                "90"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "230": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "3422"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "240": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "1086"
+            ],
+            [
+                "/Filter",
+                "NAME_LIST",
+                "1"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "250": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Subtype",
+                "NAME",
+                "/XML"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "3422"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Metadata"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

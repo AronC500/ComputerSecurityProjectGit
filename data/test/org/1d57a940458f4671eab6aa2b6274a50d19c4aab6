@@ -1,0 +1,128 @@
+{
+    "10": {
+        "insn_list": [
+            [
+                "/OpenAction",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/OpenAction/S",
+                "NAME",
+                "/JavaScript"
+            ],
+            [
+                "/OpenAction/JS",
+                "REF",
+                "40"
+            ]
+        ],
+        "out_edge_list": [
+            40
+        ]
+    },
+    "20": {
+        "insn_list": [
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "30"
+            ]
+        ],
+        "out_edge_list": [
+            30
+        ]
+    },
+    "30": {
+        "insn_list": [
+            [
+                "/MediaBox",
+                "NUM_LIST",
+                "4"
+            ],
+            [
+                "/Resources",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/Font",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/Font/F1",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/Resources/Font/F1/BaseFont",
+                "NAME",
+                "/Helvetica"
+            ],
+            [
+                "/Resources/Font/F1/Subtype",
+                "NAME",
+                "/Type1"
+            ],
+            [
+                "/Resources/Font/F1/Name",
+                "NAME",
+                "/F1"
+            ],
+            [
+                "/Resources/Font/F1/Type",
+                "NAME",
+                "/Font"
+            ],
+            [
+                "/Parent",
+                "REF",
+                "20"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ]
+        ],
+        "out_edge_list": [
+            20
+        ]
+    },
+    "40": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Filter",
+                "NAME_LIST",
+                "5"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "6954"
+            ]
+        ],
+        "out_edge_list": []
+    }
+}

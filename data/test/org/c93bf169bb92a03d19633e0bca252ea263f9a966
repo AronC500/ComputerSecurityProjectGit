@@ -1,0 +1,118 @@
+{
+    "180": {
+        "insn_list": [
+            [
+                "/Count",
+                "NUM",
+                "1"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Pages"
+            ],
+            [
+                "/Kids",
+                "REF_LIST",
+                "1"
+            ],
+            [
+                "/Kids",
+                "REF",
+                "1500"
+            ]
+        ],
+        "out_edge_list": [
+            1500
+        ]
+    },
+    "490": {
+        "insn_list": [
+            [
+                "<Blank>",
+                "STREAM",
+                "<Blank>"
+            ],
+            [
+                "/Length",
+                "NUM",
+                "0000"
+            ],
+            [
+                "/Filter",
+                "NAME",
+                "/F#6c#61#74#65#44#65#63#6f#64e"
+            ]
+        ],
+        "out_edge_list": []
+    },
+    "710": {
+        "insn_list": [
+            [
+                "/Pages",
+                "REF",
+                "180"
+            ],
+            [
+                "/StructTreeRoot",
+                "REF",
+                "3470"
+            ]
+        ],
+        "out_edge_list": [
+            180,
+            3470
+        ]
+    },
+    "1500": {
+        "insn_list": [
+            [
+                "/Parent",
+                "REF",
+                "180"
+            ],
+            [
+                "/Resources",
+                "REF",
+                "1500"
+            ],
+            [
+                "/Type",
+                "NAME",
+                "/Page"
+            ],
+            [
+                "/AA",
+                "DICT",
+                "<Blank>"
+            ],
+            [
+                "/AA/O",
+                "REF",
+                "3470"
+            ]
+        ],
+        "out_edge_list": [
+            180,
+            1500,
+            3470
+        ]
+    },
+    "3470": {
+        "insn_list": [
+            [
+                "/S",
+                "NAME",
+                "/JavaScript"
+            ],
+            [
+                "/JS",
+                "REF",
+                "490"
+            ]
+        ],
+        "out_edge_list": [
+            490
+        ]
+    }
+}
